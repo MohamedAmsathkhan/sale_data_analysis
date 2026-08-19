@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Product,Category,City,Region,Quantity,Unit_Price,Discount,Sales,Profit,Payment_Method
+ORD00001,2024-04-12,Desk,Furniture,Pune,West,4,12000,0.2,38400.0,9205.7,Credit Card
+ORD00002,2024-12-25,Headphones,Electronics,Pune,West,3,2500,0.1,6750.0,1260.51,Debit Card
+ORD00003,2024-10-20,Office Chair,Furniture,Pune,West,5,7500,0.05,35625.0,10206.15,Credit Card
+ORD00004,2024-08-23,Mouse,Electronics,Kolkata,East,1,900,0.15,765.0,172.09,UPI
+ORD00005,2024-07-06,Laptop,Electronics,Kolkata,East,3,55000,0.1,148500.0,19205.97,Debit Card
+ORD00006,2024-05-14,Desk,Furniture,Madurai,South,4,12000,0.0,48000.0,14015.43,Net Banking
+ORD00007,2024-08-29,Pen Set,Stationery,Delhi,North,2,250,0.15,425.0,133.08,Credit Card
+ORD00008,2024-09-20,Pen Set,Stationery,Coimbatore,South,2,250,0.2,400.0,102.74,Debit Card
+ORD00009,2024-02-23,Laptop,Electronics,Pune,West,4,55000,0.05,209000.0,56654.11,Credit Card
+ORD00010,2024-07-20,Keyboard,Electronics,Kolkata,East,5,1800,0.05,8550.0,1795.08,Cash
+ORD00011,2024-08-24,Notebook,Stationery,Pune,West,4,120,0.0,480.0,138.68,Credit Card
+ORD00012,2024-10-27,Mouse,Electronics,Delhi,North,2,900,0.0,1800.0,322.66,UPI
+ORD00013,2024-05-18,Pen Set,Stationery,Pune,West,1,250,0.0,250.0,30.28,Debit Card
+ORD00014,2024-08-18,Laptop,Electronics,Chennai,South,3,55000,0.1,148500.0,35817.01,Credit Card
+ORD00015,2024-02-02,Pen Set,Stationery,Pune,West,4,250,0.0,1000.0,209.89,Net Banking
+ORD00016,2024-04-10,Headphones,Electronics,Madurai,South,4,2500,0.1,9000.0,1929.99,Debit Card
+ORD00017,2024-12-24,Laptop,Electronics,Mumbai,West,5,55000,0.05,261250.0,71633.04,Debit Card
+ORD00018,2024-08-18,Pen Set,Stationery,Madurai,South,2,250,0.05,475.0,59.99,UPI
+ORD00019,2024-08-24,Keyboard,Electronics,Bengaluru,South,5,1800,0.15,7650.0,1299.42,Debit Card
+ORD00020,2024-03-06,Keyboard,Electronics,Madurai,South,5,1800,0.1,8100.0,1233.18,Credit Card
+ORD00021,2024-11-26,Pen Set,Stationery,Trichy,South,5,250,0.15,1062.5,317.17,Credit Card
+ORD00022,2024-10-09,Desk,Furniture,Mumbai,West,4,12000,0.0,48000.0,14465.55,UPI
+ORD00023,2024-05-16,Keyboard,Electronics,Madurai,South,5,1800,0.0,9000.0,1092.51,Net Banking
+ORD00024,2024-06-08,Laptop,Electronics,Pune,West,3,55000,0.05,156750.0,48370.22,UPI
+ORD00025,2024-10-21,Keyboard,Electronics,Kolkata,East,1,1800,0.0,1800.0,562.48,Credit Card
+ORD00026,2024-07-05,Headphones,Electronics,Chennai,South,1,2500,0.2,2000.0,639.1,UPI
+ORD00027,2024-08-11,Smartphone,Electronics,Hyderabad,South,2,25000,0.15,42500.0,5380.93,UPI
+ORD00028,2024-06-08,Laptop,Electronics,Bengaluru,South,3,55000,0.05,156750.0,34154.34,Cash
+ORD00029,2024-10-06,Desk,Furniture,Chennai,South,3,12000,0.1,32400.0,8606.84,Net Banking
+ORD00030,2024-07-05,Keyboard,Electronics,Chennai,South,2,1800,0.1,3240.0,486.46,Net Banking
+ORD00031,2024-05-26,Headphones,Electronics,Trichy,South,4,2500,0.15,8500.0,1048.2,Cash
+ORD00032,2024-02-08,Desk,Furniture,Chennai,South,4,12000,0.0,48000.0,9576.69,Credit Card
+ORD00033,2024-05-30,Notebook,Stationery,Delhi,North,1,120,0.1,108.0,15.41,Credit Card
+ORD00034,2024-01-02,Headphones,Electronics,Delhi,North,4,2500,0.05,9500.0,2121.61,UPI
+ORD00035,2024-04-08,Mouse,Electronics,Mumbai,West,5,900,0.1,4050.0,760.61,Debit Card
+ORD00036,2024-04-22,Headphones,Electronics,Pune,West,4,2500,0.0,10000.0,2901.86,Cash
+ORD00037,2024-12-14,Office Chair,Furniture,Delhi,North,4,7500,0.1,27000.0,6822.91,Credit Card
+ORD00038,2024-03-08,Smartphone,Electronics,Delhi,North,2,25000,0.1,45000.0,6983.33,UPI
+ORD00039,2024-06-24,Mouse,Electronics,Chennai,South,4,900,0.1,3240.0,588.42,Cash
+ORD00040,2024-01-27,Headphones,Electronics,Hyderabad,South,5,2500,0.1,11250.0,3388.72,Credit Card
+ORD00041,2024-11-12,Mouse,Electronics,Chennai,South,1,900,0.15,765.0,121.67,Debit Card
+ORD00042,2024-06-06,Keyboard,Electronics,Chennai,South,3,1800,0.0,5400.0,1722.11,Net Banking
+ORD00043,2024-12-14,Mouse,Electronics,Delhi,North,3,900,0.15,2295.0,712.86,UPI
+ORD00044,2024-09-09,Mouse,Electronics,Chennai,South,3,900,0.15,2295.0,309.98,Net Banking
+ORD00045,2024-08-10,Desk,Furniture,Coimbatore,South,1,12000,0.1,10800.0,2498.69,Credit Card
+ORD00046,2024-09-29,Headphones,Electronics,Kolkata,East,2,2500,0.05,4750.0,1403.5,UPI
+ORD00047,2024-12-20,Pen Set,Stationery,Kolkata,East,3,250,0.2,600.0,169.12,Credit Card
+ORD00048,2024-02-05,Pen Set,Stationery,Kolkata,East,5,250,0.15,1062.5,128.6,Net Banking
+ORD00049,2024-04-01,Keyboard,Electronics,Madurai,South,1,1800,0.15,1530.0,287.03,Credit Card
+ORD00050,2024-05-04,Smartphone,Electronics,Kolkata,East,3,25000,0.0,75000.0,17139.67,Credit Card
+ORD00051,2024-02-23,Backpack,Accessories,Kolkata,East,1,1800,0.15,1530.0,435.32,Debit Card
+ORD00052,2024-09-18,Mouse,Electronics,Bengaluru,South,1,900,0.2,720.0,152.25,Net Banking
+ORD00053,2024-06-06,Keyboard,Electronics,Coimbatore,South,3,1800,0.15,4590.0,1024.76,Debit Card
+ORD00054,2024-08-16,Laptop,Electronics,Kolkata,East,3,55000,0.15,140250.0,19030.7,Credit Card
+ORD00055,2024-05-01,Mouse,Electronics,Bengaluru,South,1,900,0.15,765.0,100.7,UPI
+ORD00056,2024-07-07,Smartphone,Electronics,Bengaluru,South,1,25000,0.2,20000.0,4953.08,Net Banking
+ORD00057,2024-03-26,Office Chair,Furniture,Kolkata,East,5,7500,0.1,33750.0,6452.82,UPI
+ORD00058,2024-08-05,Mouse,Electronics,Bengaluru,South,1,900,0.15,765.0,164.35,Credit Card
+ORD00059,2024-01-10,Mouse,Electronics,Bengaluru,South,4,900,0.0,3600.0,718.92,Net Banking
+ORD00060,2024-04-05,Keyboard,Electronics,Kolkata,East,2,1800,0.15,3060.0,750.23,UPI
+ORD00061,2024-12-01,Notebook,Stationery,Trichy,South,5,120,0.2,480.0,116.72,Credit Card
+ORD00062,2024-06-26,Laptop,Electronics,Trichy,South,4,55000,0.1,198000.0,46548.78,Debit Card
+ORD00063,2024-09-24,Laptop,Electronics,Madurai,South,1,55000,0.2,44000.0,12501.63,Debit Card
+ORD00064,2024-08-29,Laptop,Electronics,Coimbatore,South,1,55000,0.05,52250.0,6677.16,Debit Card
+ORD00065,2024-03-30,Desk,Furniture,Pune,West,1,12000,0.05,11400.0,2246.7,Credit Card
+ORD00066,2024-03-15,Headphones,Electronics,Kolkata,East,1,2500,0.15,2125.0,551.11,Net Banking
+ORD00067,2024-06-12,Notebook,Stationery,Bengaluru,South,4,120,0.0,480.0,150.49,Credit Card
+ORD00068,2024-02-05,Mouse,Electronics,Chennai,South,1,900,0.1,810.0,215.73,Credit Card
+ORD00069,2024-10-05,Laptop,Electronics,Chennai,South,5,55000,0.15,233750.0,59832.74,UPI
+ORD00070,2024-08-04,Headphones,Electronics,Chennai,South,1,2500,0.0,2500.0,552.63,Net Banking
+ORD00071,2024-09-21,Headphones,Electronics,Delhi,North,1,2500,0.15,2125.0,615.04,Cash
+ORD00072,2024-01-25,Keyboard,Electronics,Bengaluru,South,3,1800,0.05,5130.0,709.69,Cash
+ORD00073,2024-02-08,Mouse,Electronics,Mumbai,West,4,900,0.2,2880.0,795.63,Net Banking
+ORD00074,2024-05-01,Mouse,Electronics,Mumbai,West,2,900,0.05,1710.0,545.81,Net Banking
+ORD00075,2024-01-09,Headphones,Electronics,Coimbatore,South,5,2500,0.1,11250.0,3529.47,Credit Card
+ORD00076,2024-05-20,Backpack,Accessories,Hyderabad,South,4,1800,0.0,7200.0,985.11,Credit Card
+ORD00077,2024-01-29,Pen Set,Stationery,Kolkata,East,2,250,0.1,450.0,67.19,Net Banking
+ORD00078,2024-05-24,Office Chair,Furniture,Chennai,South,3,7500,0.2,18000.0,5329.3,UPI
+ORD00079,2024-06-30,Keyboard,Electronics,Madurai,South,4,1800,0.15,6120.0,1685.63,Debit Card
+ORD00080,2024-06-21,Backpack,Accessories,Mumbai,West,2,1800,0.1,3240.0,670.32,Net Banking
+ORD00081,2024-11-12,Smartphone,Electronics,Trichy,South,4,25000,0.05,95000.0,13657.54,UPI
+ORD00082,2024-11-07,Desk,Furniture,Delhi,North,1,12000,0.1,10800.0,2105.72,UPI
+ORD00083,2024-07-31,Office Chair,Furniture,Bengaluru,South,5,7500,0.05,35625.0,4584.23,Debit Card
+ORD00084,2024-02-16,Mouse,Electronics,Madurai,South,4,900,0.1,3240.0,1016.91,UPI
+ORD00085,2024-05-23,Laptop,Electronics,Hyderabad,South,1,55000,0.2,44000.0,10421.97,UPI
+ORD00086,2024-12-13,Backpack,Accessories,Bengaluru,South,4,1800,0.15,6120.0,1073.91,Cash
+ORD00087,2024-12-22,Backpack,Accessories,Coimbatore,South,2,1800,0.15,3060.0,529.95,UPI
+ORD00088,2024-07-30,Keyboard,Electronics,Delhi,North,3,1800,0.0,5400.0,982.29,Net Banking
+ORD00089,2024-10-29,Headphones,Electronics,Madurai,South,5,2500,0.05,11875.0,3148.58,UPI
+ORD00090,2024-10-15,Smartphone,Electronics,Bengaluru,South,2,25000,0.05,47500.0,5950.49,UPI
+ORD00091,2024-08-04,Smartphone,Electronics,Bengaluru,South,1,25000,0.1,22500.0,6073.1,Debit Card
+ORD00092,2024-11-06,Laptop,Electronics,Coimbatore,South,5,55000,0.0,275000.0,35025.2,Cash
+ORD00093,2024-01-23,Laptop,Electronics,Hyderabad,South,5,55000,0.2,220000.0,66579.29,Net Banking
+ORD00094,2024-03-25,Mouse,Electronics,Kolkata,East,5,900,0.05,4275.0,836.06,UPI
+ORD00095,2024-10-14,Laptop,Electronics,Trichy,South,3,55000,0.2,132000.0,21876.17,Credit Card
+ORD00096,2024-09-15,Notebook,Stationery,Coimbatore,South,2,120,0.05,228.0,49.08,Debit Card
+ORD00097,2024-08-09,Smartphone,Electronics,Hyderabad,South,4,25000,0.0,100000.0,31359.48,Debit Card
+ORD00098,2024-03-15,Pen Set,Stationery,Bengaluru,South,1,250,0.2,200.0,49.57,Debit Card
+ORD00099,2024-12-03,Desk,Furniture,Hyderabad,South,4,12000,0.05,45600.0,11017.76,Debit Card
+ORD00100,2024-11-30,Headphones,Electronics,Delhi,North,2,2500,0.15,4250.0,946.89,Cash
+ORD00101,2024-05-17,Desk,Furniture,Chennai,South,2,12000,0.1,21600.0,6693.93,UPI
+ORD00102,2024-02-03,Backpack,Accessories,Trichy,South,1,1800,0.15,1530.0,324.1,Net Banking
+ORD00103,2024-05-30,Smartphone,Electronics,Madurai,South,5,25000,0.1,112500.0,25588.43,Debit Card
+ORD00104,2024-12-17,Office Chair,Furniture,Pune,West,4,7500,0.15,25500.0,5159.47,Debit Card
+ORD00105,2024-01-05,Smartphone,Electronics,Madurai,South,5,25000,0.05,118750.0,15220.63,Credit Card
+ORD00106,2024-08-20,Backpack,Accessories,Hyderabad,South,5,1800,0.2,7200.0,1037.72,Cash
+ORD00107,2024-03-13,Backpack,Accessories,Kolkata,East,2,1800,0.0,3600.0,929.08,Credit Card
+ORD00108,2024-09-13,Pen Set,Stationery,Chennai,South,1,250,0.1,225.0,39.46,UPI
+ORD00109,2024-01-28,Headphones,Electronics,Pune,West,5,2500,0.15,10625.0,2304.61,Credit Card
+ORD00110,2024-08-25,Backpack,Accessories,Mumbai,West,3,1800,0.1,4860.0,1251.12,Debit Card
+ORD00111,2024-04-28,Smartphone,Electronics,Madurai,South,2,25000,0.1,45000.0,7582.23,Net Banking
+ORD00112,2024-05-05,Backpack,Accessories,Mumbai,West,1,1800,0.0,1800.0,248.11,Cash
+ORD00113,2024-03-07,Pen Set,Stationery,Trichy,South,1,250,0.2,200.0,42.96,UPI
+ORD00114,2024-08-23,Smartphone,Electronics,Pune,West,4,25000,0.05,95000.0,22544.17,Debit Card
+ORD00115,2024-11-15,Backpack,Accessories,Hyderabad,South,1,1800,0.2,1440.0,431.9,Credit Card
+ORD00116,2024-10-15,Notebook,Stationery,Hyderabad,South,3,120,0.2,288.0,69.45,Net Banking
+ORD00117,2024-09-03,Office Chair,Furniture,Pune,West,5,7500,0.15,31875.0,9541.88,Debit Card
+ORD00118,2024-11-17,Headphones,Electronics,Pune,West,5,2500,0.15,10625.0,1513.08,Cash
+ORD00119,2024-07-21,Keyboard,Electronics,Delhi,North,1,1800,0.1,1620.0,427.18,Credit Card
+ORD00120,2024-04-27,Headphones,Electronics,Bengaluru,South,5,2500,0.15,10625.0,1672.47,Cash
+ORD00121,2024-02-16,Headphones,Electronics,Trichy,South,4,2500,0.0,10000.0,1684.82,UPI
+ORD00122,2024-09-15,Backpack,Accessories,Trichy,South,5,1800,0.1,8100.0,1491.44,UPI
+ORD00123,2024-06-20,Office Chair,Furniture,Bengaluru,South,2,7500,0.05,14250.0,1890.62,Credit Card
+ORD00124,2024-11-24,Notebook,Stationery,Chennai,South,2,120,0.15,204.0,30.14,UPI
+ORD00125,2024-08-23,Pen Set,Stationery,Chennai,South,3,250,0.1,675.0,195.85,Credit Card
+ORD00126,2024-02-04,Mouse,Electronics,Coimbatore,South,3,900,0.0,2700.0,421.87,UPI
+ORD00127,2024-08-16,Notebook,Stationery,Pune,West,4,120,0.2,384.0,109.67,Cash
+ORD00128,2024-03-18,Headphones,Electronics,Bengaluru,South,5,2500,0.2,10000.0,1671.38,Credit Card
+ORD00129,2024-10-22,Keyboard,Electronics,Kolkata,East,1,1800,0.2,1440.0,285.82,Debit Card
+ORD00130,2024-11-04,Office Chair,Furniture,Delhi,North,1,7500,0.0,7500.0,1433.04,Debit Card
+ORD00131,2024-02-11,Desk,Furniture,Mumbai,West,3,12000,0.1,32400.0,8621.96,Cash
+ORD00132,2024-04-06,Laptop,Electronics,Trichy,South,4,55000,0.1,198000.0,63268.63,Net Banking
+ORD00133,2024-01-10,Mouse,Electronics,Trichy,South,3,900,0.0,2700.0,631.74,Net Banking
+ORD00134,2024-07-02,Backpack,Accessories,Trichy,South,1,1800,0.2,1440.0,304.42,Net Banking
+ORD00135,2024-05-09,Notebook,Stationery,Trichy,South,5,120,0.2,480.0,126.94,Debit Card
+ORD00136,2024-10-09,Headphones,Electronics,Trichy,South,3,2500,0.15,6375.0,1678.13,Net Banking
+ORD00137,2024-07-18,Keyboard,Electronics,Pune,West,3,1800,0.05,5130.0,1214.16,Credit Card
+ORD00138,2024-04-13,Backpack,Accessories,Delhi,North,5,1800,0.05,8550.0,1463.79,Cash
+ORD00139,2024-05-06,Keyboard,Electronics,Pune,West,4,1800,0.2,5760.0,717.72,Credit Card
+ORD00140,2024-01-29,Laptop,Electronics,Delhi,North,4,55000,0.05,209000.0,42808.66,UPI
+ORD00141,2024-04-19,Office Chair,Furniture,Bengaluru,South,3,7500,0.0,22500.0,7131.79,Cash
+ORD00142,2024-05-28,Office Chair,Furniture,Hyderabad,South,1,7500,0.0,7500.0,1678.26,UPI
+ORD00143,2024-06-02,Mouse,Electronics,Trichy,South,1,900,0.05,855.0,237.31,UPI
+ORD00144,2024-07-28,Headphones,Electronics,Kolkata,East,4,2500,0.0,10000.0,3039.71,Debit Card
+ORD00145,2024-01-25,Smartphone,Electronics,Madurai,South,3,25000,0.0,75000.0,12723.4,Cash
+ORD00146,2024-05-29,Office Chair,Furniture,Chennai,South,5,7500,0.0,37500.0,10353.72,Credit Card
+ORD00147,2024-12-26,Smartphone,Electronics,Mumbai,West,5,25000,0.0,125000.0,39388.53,UPI
+ORD00148,2024-09-13,Keyboard,Electronics,Pune,West,4,1800,0.2,5760.0,1269.73,Net Banking
+ORD00149,2024-02-01,Desk,Furniture,Pune,West,3,12000,0.1,32400.0,9707.39,Net Banking
+ORD00150,2024-09-13,Laptop,Electronics,Pune,West,5,55000,0.2,220000.0,52247.96,Debit Card
+ORD00151,2024-06-14,Smartphone,Electronics,Chennai,South,2,25000,0.15,42500.0,8506.49,Debit Card
+ORD00152,2024-10-14,Keyboard,Electronics,Mumbai,West,1,1800,0.2,1440.0,445.28,Credit Card
+ORD00153,2024-10-14,Backpack,Accessories,Chennai,South,3,1800,0.05,5130.0,641.65,Credit Card
+ORD00154,2024-09-11,Desk,Furniture,Delhi,North,5,12000,0.0,60000.0,9863.67,Net Banking
+ORD00155,2024-04-01,Notebook,Stationery,Madurai,South,1,120,0.2,96.0,28.56,Credit Card
+ORD00156,2024-08-10,Headphones,Electronics,Trichy,South,3,2500,0.15,6375.0,1616.81,Credit Card
+ORD00157,2024-04-21,Desk,Furniture,Mumbai,West,2,12000,0.0,24000.0,6951.01,Net Banking
+ORD00158,2024-10-29,Headphones,Electronics,Coimbatore,South,4,2500,0.2,8000.0,2388.27,Net Banking
+ORD00159,2024-04-28,Keyboard,Electronics,Coimbatore,South,3,1800,0.05,5130.0,988.1,Cash
+ORD00160,2024-08-13,Keyboard,Electronics,Hyderabad,South,5,1800,0.2,7200.0,1978.32,Net Banking
+ORD00161,2024-03-21,Headphones,Electronics,Hyderabad,South,4,2500,0.05,9500.0,2621.54,Credit Card
+ORD00162,2024-01-14,Notebook,Stationery,Coimbatore,South,3,120,0.0,360.0,44.82,UPI
+ORD00163,2024-09-02,Notebook,Stationery,Delhi,North,2,120,0.2,192.0,32.94,Debit Card
+ORD00164,2024-03-15,Keyboard,Electronics,Coimbatore,South,2,1800,0.05,3420.0,596.66,Credit Card
+ORD00165,2024-01-17,Mouse,Electronics,Delhi,North,2,900,0.15,1530.0,267.46,Net Banking
+ORD00166,2024-12-07,Pen Set,Stationery,Mumbai,West,2,250,0.15,425.0,60.06,Net Banking
+ORD00167,2024-06-21,Pen Set,Stationery,Delhi,North,3,250,0.05,712.5,155.93,UPI
+ORD00168,2024-05-09,Backpack,Accessories,Kolkata,East,5,1800,0.15,7650.0,1563.72,Cash
+ORD00169,2024-10-08,Office Chair,Furniture,Madurai,South,3,7500,0.0,22500.0,3106.52,Net Banking
+ORD00170,2024-10-21,Mouse,Electronics,Trichy,South,3,900,0.1,2430.0,641.06,Debit Card
+ORD00171,2024-02-05,Office Chair,Furniture,Pune,West,2,7500,0.2,12000.0,1955.86,Cash
+ORD00172,2024-12-30,Headphones,Electronics,Chennai,South,3,2500,0.15,6375.0,1397.87,Debit Card
+ORD00173,2024-07-19,Smartphone,Electronics,Coimbatore,South,1,25000,0.05,23750.0,3356.34,UPI
+ORD00174,2024-02-08,Laptop,Electronics,Pune,West,1,55000,0.2,44000.0,9106.48,Debit Card
+ORD00175,2024-12-19,Headphones,Electronics,Madurai,South,2,2500,0.2,4000.0,697.72,Cash
+ORD00176,2024-11-25,Headphones,Electronics,Chennai,South,5,2500,0.15,10625.0,1565.74,UPI
+ORD00177,2024-05-28,Desk,Furniture,Pune,West,1,12000,0.15,10200.0,2771.12,UPI
+ORD00178,2024-05-22,Desk,Furniture,Coimbatore,South,5,12000,0.0,60000.0,13073.1,Debit Card
+ORD00179,2024-09-22,Backpack,Accessories,Kolkata,East,1,1800,0.2,1440.0,184.15,UPI
+ORD00180,2024-09-26,Desk,Furniture,Hyderabad,South,2,12000,0.2,19200.0,5819.48,Net Banking
+ORD00181,2024-08-02,Desk,Furniture,Pune,West,1,12000,0.1,10800.0,3393.49,Net Banking
+ORD00182,2024-04-12,Smartphone,Electronics,Coimbatore,South,4,25000,0.1,90000.0,20203.82,UPI
+ORD00183,2024-06-19,Notebook,Stationery,Coimbatore,South,3,120,0.15,306.0,90.88,Credit Card
+ORD00184,2024-07-28,Desk,Furniture,Trichy,South,4,12000,0.0,48000.0,13350.94,UPI
+ORD00185,2024-02-03,Backpack,Accessories,Mumbai,West,4,1800,0.05,6840.0,1452.74,Debit Card
+ORD00186,2024-08-14,Desk,Furniture,Coimbatore,South,5,12000,0.2,48000.0,14775.05,Debit Card
+ORD00187,2024-09-01,Desk,Furniture,Chennai,South,4,12000,0.2,38400.0,7694.83,Cash
+ORD00188,2024-12-24,Pen Set,Stationery,Kolkata,East,4,250,0.0,1000.0,138.34,Cash
+ORD00189,2024-06-06,Mouse,Electronics,Madurai,South,1,900,0.0,900.0,192.12,Credit Card
+ORD00190,2024-03-13,Keyboard,Electronics,Delhi,North,2,1800,0.2,2880.0,505.31,UPI
+ORD00191,2024-07-16,Pen Set,Stationery,Kolkata,East,4,250,0.15,850.0,237.66,Debit Card
+ORD00192,2024-05-27,Smartphone,Electronics,Trichy,South,1,25000,0.15,21250.0,3534.6,Net Banking
+ORD00193,2024-11-08,Office Chair,Furniture,Kolkata,East,5,7500,0.1,33750.0,4366.88,Credit Card
+ORD00194,2024-01-05,Pen Set,Stationery,Madurai,South,1,250,0.05,237.5,67.74,Net Banking
+ORD00195,2024-08-28,Office Chair,Furniture,Madurai,South,1,7500,0.0,7500.0,1795.91,Net Banking
+ORD00196,2024-08-03,Backpack,Accessories,Coimbatore,South,3,1800,0.05,5130.0,1329.72,Debit Card
+ORD00197,2024-12-22,Headphones,Electronics,Delhi,North,5,2500,0.2,10000.0,2385.88,Credit Card
+ORD00198,2024-08-13,Pen Set,Stationery,Delhi,North,3,250,0.1,675.0,86.99,Cash
+ORD00199,2024-08-13,Backpack,Accessories,Bengaluru,South,1,1800,0.0,1800.0,480.68,Cash
+ORD00200,2024-02-06,Office Chair,Furniture,Kolkata,East,3,7500,0.2,18000.0,4077.37,Cash
+ORD00201,2024-08-11,Mouse,Electronics,Coimbatore,South,5,900,0.0,4500.0,985.63,Net Banking
+ORD00202,2024-02-09,Headphones,Electronics,Pune,West,2,2500,0.1,4500.0,1135.9,Debit Card
+ORD00203,2024-10-30,Laptop,Electronics,Chennai,South,3,55000,0.15,140250.0,21243.41,UPI
+ORD00204,2024-07-06,Pen Set,Stationery,Trichy,South,5,250,0.05,1187.5,289.42,Net Banking
+ORD00205,2024-06-08,Backpack,Accessories,Mumbai,West,1,1800,0.1,1620.0,196.07,Debit Card
+ORD00206,2024-01-12,Mouse,Electronics,Coimbatore,South,2,900,0.15,1530.0,438.23,Credit Card
+ORD00207,2024-07-06,Laptop,Electronics,Pune,West,1,55000,0.0,55000.0,9457.84,Net Banking
+ORD00208,2024-11-14,Headphones,Electronics,Delhi,North,3,2500,0.05,7125.0,2227.26,Cash
+ORD00209,2024-08-29,Mouse,Electronics,Trichy,South,5,900,0.15,3825.0,985.23,Cash
+ORD00210,2024-01-22,Laptop,Electronics,Kolkata,East,4,55000,0.0,220000.0,47237.25,Credit Card
+ORD00211,2024-06-23,Notebook,Stationery,Coimbatore,South,3,120,0.05,342.0,108.77,Net Banking
+ORD00212,2024-01-07,Keyboard,Electronics,Trichy,South,3,1800,0.1,4860.0,1320.23,Net Banking
+ORD00213,2024-08-13,Laptop,Electronics,Kolkata,East,3,55000,0.1,148500.0,17850.58,Net Banking
+ORD00214,2024-10-11,Keyboard,Electronics,Delhi,North,1,1800,0.1,1620.0,247.41,Net Banking
+ORD00215,2024-07-13,Keyboard,Electronics,Hyderabad,South,2,1800,0.15,3060.0,447.58,UPI
+ORD00216,2024-12-22,Notebook,Stationery,Bengaluru,South,4,120,0.2,384.0,115.93,Debit Card
+ORD00217,2024-09-13,Keyboard,Electronics,Bengaluru,South,3,1800,0.0,5400.0,1710.7,Credit Card
+ORD00218,2024-10-07,Office Chair,Furniture,Madurai,South,2,7500,0.2,12000.0,1514.72,Cash
+ORD00219,2024-05-24,Smartphone,Electronics,Pune,West,4,25000,0.1,90000.0,13666.42,Net Banking
+ORD00220,2024-12-14,Mouse,Electronics,Trichy,South,3,900,0.05,2565.0,316.96,Cash
+ORD00221,2024-01-15,Mouse,Electronics,Madurai,South,4,900,0.05,3420.0,537.25,UPI
+ORD00222,2024-06-14,Desk,Furniture,Trichy,South,1,12000,0.15,10200.0,2101.82,UPI
+ORD00223,2024-03-04,Office Chair,Furniture,Coimbatore,South,5,7500,0.2,30000.0,8385.35,Net Banking
+ORD00224,2024-04-04,Laptop,Electronics,Coimbatore,South,5,55000,0.05,261250.0,56426.8,Debit Card
+ORD00225,2024-09-23,Pen Set,Stationery,Hyderabad,South,1,250,0.15,212.5,64.08,Debit Card
+ORD00226,2024-03-20,Notebook,Stationery,Delhi,North,1,120,0.0,120.0,28.1,Cash
+ORD00227,2024-12-18,Keyboard,Electronics,Pune,West,1,1800,0.05,1710.0,208.54,Credit Card
+ORD00228,2024-06-02,Laptop,Electronics,Chennai,South,1,55000,0.0,55000.0,15669.65,Credit Card
+ORD00229,2024-04-15,Office Chair,Furniture,Coimbatore,South,2,7500,0.05,14250.0,4051.11,Cash
+ORD00230,2024-01-09,Laptop,Electronics,Madurai,South,3,55000,0.2,132000.0,39500.24,UPI
+ORD00231,2024-12-13,Desk,Furniture,Pune,West,1,12000,0.05,11400.0,3527.96,Cash
+ORD00232,2024-01-22,Desk,Furniture,Trichy,South,3,12000,0.15,30600.0,7328.55,Credit Card
+ORD00233,2024-01-12,Headphones,Electronics,Kolkata,East,1,2500,0.15,2125.0,441.41,Cash
+ORD00234,2024-08-25,Pen Set,Stationery,Kolkata,East,5,250,0.1,1125.0,209.03,Cash
+ORD00235,2024-10-26,Notebook,Stationery,Mumbai,West,5,120,0.2,480.0,61.79,Credit Card
+ORD00236,2024-11-07,Office Chair,Furniture,Hyderabad,South,2,7500,0.1,13500.0,2517.25,UPI
+ORD00237,2024-04-02,Headphones,Electronics,Madurai,South,4,2500,0.05,9500.0,2432.43,UPI
+ORD00238,2024-01-24,Desk,Furniture,Bengaluru,South,4,12000,0.0,48000.0,12740.82,Cash
+ORD00239,2024-02-19,Mouse,Electronics,Trichy,South,4,900,0.15,3060.0,676.17,UPI
+ORD00240,2024-08-15,Headphones,Electronics,Kolkata,East,1,2500,0.15,2125.0,563.23,Credit Card
+ORD00241,2024-09-02,Smartphone,Electronics,Madurai,South,4,25000,0.05,95000.0,22654.66,Net Banking
+ORD00242,2024-08-12,Headphones,Electronics,Pune,West,5,2500,0.05,11875.0,3410.5,Debit Card
+ORD00243,2024-11-20,Backpack,Accessories,Coimbatore,South,4,1800,0.05,6840.0,1068.38,Net Banking
+ORD00244,2024-03-24,Pen Set,Stationery,Pune,West,4,250,0.2,800.0,188.71,Credit Card
+ORD00245,2024-03-06,Desk,Furniture,Delhi,North,1,12000,0.1,10800.0,3389.93,Debit Card
+ORD00246,2024-06-12,Mouse,Electronics,Pune,West,5,900,0.0,4500.0,1078.84,Net Banking
+ORD00247,2024-03-20,Desk,Furniture,Madurai,South,3,12000,0.05,34200.0,7127.45,Credit Card
+ORD00248,2024-09-20,Backpack,Accessories,Chennai,South,4,1800,0.0,7200.0,1511.18,Debit Card
+ORD00249,2024-06-23,Laptop,Electronics,Delhi,North,1,55000,0.15,46750.0,11271.78,Net Banking
+ORD00250,2024-06-04,Mouse,Electronics,Pune,West,1,900,0.0,900.0,253.02,Cash
+ORD00251,2024-01-20,Keyboard,Electronics,Delhi,North,2,1800,0.05,3420.0,773.72,Credit Card
+ORD00252,2024-06-09,Laptop,Electronics,Bengaluru,South,3,55000,0.2,132000.0,18177.87,UPI
+ORD00253,2024-08-03,Headphones,Electronics,Trichy,South,4,2500,0.05,9500.0,3014.6,Debit Card
+ORD00254,2024-07-02,Smartphone,Electronics,Delhi,North,1,25000,0.05,23750.0,5605.53,Debit Card
+ORD00255,2024-10-27,Smartphone,Electronics,Mumbai,West,4,25000,0.15,85000.0,10709.55,Cash
+ORD00256,2024-12-06,Smartphone,Electronics,Mumbai,West,2,25000,0.15,42500.0,6480.25,UPI
+ORD00257,2024-07-11,Desk,Furniture,Hyderabad,South,5,12000,0.2,48000.0,8210.94,Credit Card
+ORD00258,2024-10-29,Backpack,Accessories,Chennai,South,2,1800,0.05,3420.0,978.72,UPI
+ORD00259,2024-10-13,Notebook,Stationery,Chennai,South,1,120,0.15,102.0,24.49,Net Banking
+ORD00260,2024-03-03,Mouse,Electronics,Coimbatore,South,1,900,0.05,855.0,273.5,UPI
+ORD00261,2024-06-07,Laptop,Electronics,Delhi,North,1,55000,0.0,55000.0,7595.3,UPI
+ORD00262,2024-04-11,Keyboard,Electronics,Hyderabad,South,2,1800,0.2,2880.0,533.97,Debit Card
+ORD00263,2024-12-30,Office Chair,Furniture,Delhi,North,2,7500,0.05,14250.0,2614.01,Debit Card
+ORD00264,2024-07-17,Laptop,Electronics,Chennai,South,1,55000,0.2,44000.0,8504.86,Net Banking
+ORD00265,2024-08-11,Headphones,Electronics,Delhi,North,4,2500,0.2,8000.0,1914.38,UPI
+ORD00266,2024-11-25,Headphones,Electronics,Madurai,South,4,2500,0.05,9500.0,1460.04,Credit Card
+ORD00267,2024-04-26,Pen Set,Stationery,Kolkata,East,3,250,0.2,600.0,186.18,Net Banking
+ORD00268,2024-10-19,Backpack,Accessories,Bengaluru,South,1,1800,0.15,1530.0,305.64,Cash
+ORD00269,2024-12-01,Keyboard,Electronics,Bengaluru,South,3,1800,0.05,5130.0,816.47,Net Banking
+ORD00270,2024-10-03,Pen Set,Stationery,Madurai,South,4,250,0.1,900.0,118.85,Net Banking
+ORD00271,2024-02-21,Office Chair,Furniture,Trichy,South,3,7500,0.05,21375.0,3662.72,Debit Card
+ORD00272,2024-03-17,Headphones,Electronics,Coimbatore,South,2,2500,0.15,4250.0,849.92,Cash
+ORD00273,2024-03-14,Backpack,Accessories,Mumbai,West,1,1800,0.1,1620.0,415.08,Net Banking
+ORD00274,2024-03-24,Desk,Furniture,Kolkata,East,1,12000,0.05,11400.0,3460.48,Cash
+ORD00275,2024-02-16,Office Chair,Furniture,Pune,West,1,7500,0.15,6375.0,1436.29,Debit Card
+ORD00276,2024-09-27,Desk,Furniture,Delhi,North,5,12000,0.15,51000.0,14216.19,Credit Card
+ORD00277,2024-07-26,Notebook,Stationery,Kolkata,East,2,120,0.0,240.0,72.0,UPI
+ORD00278,2024-01-19,Backpack,Accessories,Trichy,South,3,1800,0.2,4320.0,755.83,Cash
+ORD00279,2024-08-29,Desk,Furniture,Coimbatore,South,2,12000,0.0,24000.0,6559.95,Net Banking
+ORD00280,2024-05-28,Laptop,Electronics,Coimbatore,South,3,55000,0.15,140250.0,30094.62,UPI
+ORD00281,2024-05-17,Office Chair,Furniture,Mumbai,West,5,7500,0.1,33750.0,7740.21,UPI
+ORD00282,2024-05-25,Pen Set,Stationery,Madurai,South,1,250,0.05,237.5,56.86,Debit Card
+ORD00283,2024-10-06,Backpack,Accessories,Chennai,South,5,1800,0.0,9000.0,1108.48,Cash
+ORD00284,2024-06-15,Headphones,Electronics,Hyderabad,South,4,2500,0.05,9500.0,2238.94,Net Banking
+ORD00285,2024-05-15,Keyboard,Electronics,Trichy,South,5,1800,0.0,9000.0,1425.36,UPI
+ORD00286,2024-01-05,Office Chair,Furniture,Chennai,South,1,7500,0.15,6375.0,1825.63,Cash
+ORD00287,2024-02-27,Mouse,Electronics,Hyderabad,South,2,900,0.1,1620.0,269.19,Debit Card
+ORD00288,2024-10-17,Office Chair,Furniture,Coimbatore,South,2,7500,0.15,12750.0,2455.51,Credit Card
+ORD00289,2024-11-28,Desk,Furniture,Kolkata,East,4,12000,0.15,40800.0,12710.22,Net Banking
+ORD00290,2024-05-24,Pen Set,Stationery,Mumbai,West,2,250,0.0,500.0,135.62,Cash
+ORD00291,2024-04-13,Notebook,Stationery,Mumbai,West,4,120,0.1,432.0,86.34,Net Banking
+ORD00292,2024-03-24,Keyboard,Electronics,Delhi,North,4,1800,0.0,7200.0,1831.04,Credit Card
+ORD00293,2024-05-21,Notebook,Stationery,Hyderabad,South,1,120,0.2,96.0,14.58,Cash
+ORD00294,2024-09-14,Laptop,Electronics,Coimbatore,South,2,55000,0.2,88000.0,17264.01,Debit Card
+ORD00295,2024-06-02,Pen Set,Stationery,Madurai,South,1,250,0.0,250.0,49.85,Cash
+ORD00296,2024-08-31,Smartphone,Electronics,Hyderabad,South,3,25000,0.1,67500.0,15748.77,Credit Card
+ORD00297,2024-06-06,Laptop,Electronics,Madurai,South,2,55000,0.05,104500.0,26632.95,Debit Card
+ORD00298,2024-12-12,Desk,Furniture,Bengaluru,South,4,12000,0.0,48000.0,5979.78,Credit Card
+ORD00299,2024-01-25,Headphones,Electronics,Coimbatore,South,2,2500,0.15,4250.0,1054.83,Credit Card
+ORD00300,2024-11-16,Pen Set,Stationery,Trichy,South,5,250,0.0,1250.0,301.59,Net Banking
+ORD00301,2024-05-20,Keyboard,Electronics,Delhi,North,3,1800,0.1,4860.0,1385.3,Net Banking
+ORD00302,2024-03-08,Smartphone,Electronics,Trichy,South,5,25000,0.05,118750.0,17460.2,Net Banking
+ORD00303,2024-02-12,Keyboard,Electronics,Hyderabad,South,2,1800,0.2,2880.0,345.79,Credit Card
+ORD00304,2024-09-22,Desk,Furniture,Bengaluru,South,3,12000,0.1,32400.0,8947.34,UPI
+ORD00305,2024-03-23,Smartphone,Electronics,Pune,West,3,25000,0.05,71250.0,12787.31,UPI
+ORD00306,2024-09-08,Headphones,Electronics,Madurai,South,5,2500,0.0,12500.0,1944.42,UPI
+ORD00307,2024-11-03,Keyboard,Electronics,Bengaluru,South,4,1800,0.0,7200.0,1749.92,Net Banking
+ORD00308,2024-03-03,Keyboard,Electronics,Hyderabad,South,4,1800,0.15,6120.0,1255.93,Net Banking
+ORD00309,2024-01-14,Keyboard,Electronics,Mumbai,West,5,1800,0.1,8100.0,1823.32,Net Banking
+ORD00310,2024-03-19,Office Chair,Furniture,Bengaluru,South,5,7500,0.05,35625.0,4411.74,Net Banking
+ORD00311,2024-08-29,Backpack,Accessories,Chennai,South,2,1800,0.2,2880.0,531.94,Net Banking
+ORD00312,2024-06-12,Mouse,Electronics,Bengaluru,South,5,900,0.05,4275.0,1333.44,UPI
+ORD00313,2024-07-01,Headphones,Electronics,Bengaluru,South,1,2500,0.15,2125.0,613.85,Net Banking
+ORD00314,2024-03-22,Backpack,Accessories,Trichy,South,4,1800,0.05,6840.0,1153.88,Debit Card
+ORD00315,2024-02-11,Pen Set,Stationery,Hyderabad,South,5,250,0.15,1062.5,210.88,Net Banking
+ORD00316,2024-05-08,Laptop,Electronics,Pune,West,1,55000,0.0,55000.0,10069.48,Credit Card
+ORD00317,2024-08-19,Laptop,Electronics,Kolkata,East,2,55000,0.05,104500.0,17828.92,Net Banking
+ORD00318,2024-03-19,Desk,Furniture,Hyderabad,South,2,12000,0.1,21600.0,5342.41,UPI
+ORD00319,2024-03-27,Desk,Furniture,Bengaluru,South,5,12000,0.1,54000.0,14444.28,Net Banking
+ORD00320,2024-04-18,Notebook,Stationery,Mumbai,West,5,120,0.0,600.0,157.96,Debit Card
+ORD00321,2024-08-19,Notebook,Stationery,Bengaluru,South,3,120,0.0,360.0,79.82,Credit Card
+ORD00322,2024-01-28,Keyboard,Electronics,Madurai,South,3,1800,0.15,4590.0,1157.94,Debit Card
+ORD00323,2024-11-15,Backpack,Accessories,Hyderabad,South,5,1800,0.2,7200.0,1964.7,Credit Card
+ORD00324,2024-11-24,Office Chair,Furniture,Pune,West,4,7500,0.0,30000.0,8215.34,Credit Card
+ORD00325,2024-03-18,Smartphone,Electronics,Trichy,South,3,25000,0.0,75000.0,18225.19,UPI
+ORD00326,2024-09-22,Pen Set,Stationery,Mumbai,West,1,250,0.05,237.5,30.49,Net Banking
+ORD00327,2024-09-25,Keyboard,Electronics,Pune,West,4,1800,0.1,6480.0,925.29,Net Banking
+ORD00328,2024-07-01,Smartphone,Electronics,Chennai,South,3,25000,0.05,71250.0,21775.19,UPI
+ORD00329,2024-10-04,Pen Set,Stationery,Kolkata,East,3,250,0.15,637.5,154.65,Cash
+ORD00330,2024-05-01,Keyboard,Electronics,Madurai,South,5,1800,0.15,7650.0,2275.0,UPI
+ORD00331,2024-10-28,Pen Set,Stationery,Bengaluru,South,2,250,0.2,400.0,126.27,Cash
+ORD00332,2024-09-25,Office Chair,Furniture,Hyderabad,South,3,7500,0.0,22500.0,5128.0,Credit Card
+ORD00333,2024-04-04,Smartphone,Electronics,Trichy,South,5,25000,0.2,100000.0,28355.71,Debit Card
+ORD00334,2024-07-07,Desk,Furniture,Hyderabad,South,4,12000,0.2,38400.0,8772.38,UPI
+ORD00335,2024-10-21,Notebook,Stationery,Mumbai,West,3,120,0.1,324.0,83.52,Cash
+ORD00336,2024-05-08,Pen Set,Stationery,Kolkata,East,5,250,0.05,1187.5,144.72,Cash
+ORD00337,2024-08-11,Mouse,Electronics,Trichy,South,3,900,0.0,2700.0,377.56,Credit Card
+ORD00338,2024-10-28,Smartphone,Electronics,Kolkata,East,3,25000,0.0,75000.0,20135.22,Debit Card
+ORD00339,2024-03-26,Smartphone,Electronics,Delhi,North,1,25000,0.2,20000.0,4616.91,Credit Card
+ORD00340,2024-04-30,Backpack,Accessories,Chennai,South,2,1800,0.15,3060.0,373.95,Credit Card
+ORD00341,2024-03-10,Mouse,Electronics,Madurai,South,1,900,0.15,765.0,220.62,Debit Card
+ORD00342,2024-01-24,Mouse,Electronics,Trichy,South,2,900,0.15,1530.0,404.55,Debit Card
+ORD00343,2024-07-20,Backpack,Accessories,Hyderabad,South,5,1800,0.2,7200.0,1865.69,Cash
+ORD00344,2024-01-04,Pen Set,Stationery,Chennai,South,5,250,0.15,1062.5,252.49,Net Banking
+ORD00345,2024-09-10,Headphones,Electronics,Mumbai,West,5,2500,0.05,11875.0,3094.49,Credit Card
+ORD00346,2024-12-31,Smartphone,Electronics,Madurai,South,3,25000,0.15,63750.0,14002.76,Debit Card
+ORD00347,2024-12-21,Office Chair,Furniture,Kolkata,East,5,7500,0.15,31875.0,8336.47,Debit Card
+ORD00348,2024-04-22,Keyboard,Electronics,Coimbatore,South,1,1800,0.0,1800.0,349.71,Debit Card
+ORD00349,2024-09-16,Pen Set,Stationery,Chennai,South,4,250,0.2,800.0,163.4,Cash
+ORD00350,2024-11-20,Office Chair,Furniture,Mumbai,West,4,7500,0.1,27000.0,6328.11,UPI
+ORD00351,2024-04-16,Keyboard,Electronics,Coimbatore,South,5,1800,0.05,8550.0,1308.65,UPI
+ORD00352,2024-02-04,Office Chair,Furniture,Madurai,South,5,7500,0.0,37500.0,11555.09,Credit Card
+ORD00353,2024-03-14,Headphones,Electronics,Bengaluru,South,5,2500,0.2,10000.0,2161.81,Net Banking
+ORD00354,2024-05-08,Keyboard,Electronics,Mumbai,West,2,1800,0.15,3060.0,920.39,UPI
+ORD00355,2024-05-31,Keyboard,Electronics,Delhi,North,1,1800,0.15,1530.0,413.52,UPI
+ORD00356,2024-08-07,Keyboard,Electronics,Kolkata,East,5,1800,0.15,7650.0,1349.75,Debit Card
+ORD00357,2024-08-04,Desk,Furniture,Hyderabad,South,4,12000,0.05,45600.0,9383.45,Net Banking
+ORD00358,2024-03-24,Office Chair,Furniture,Trichy,South,4,7500,0.0,30000.0,3801.68,Credit Card
+ORD00359,2024-01-07,Backpack,Accessories,Bengaluru,South,3,1800,0.0,5400.0,1223.01,Credit Card
+ORD00360,2024-07-17,Notebook,Stationery,Pune,West,3,120,0.15,306.0,71.0,Net Banking
+ORD00361,2024-11-08,Backpack,Accessories,Pune,West,2,1800,0.15,3060.0,526.42,Net Banking
+ORD00362,2024-08-05,Backpack,Accessories,Bengaluru,South,5,1800,0.05,8550.0,2144.64,Net Banking
+ORD00363,2024-06-09,Notebook,Stationery,Madurai,South,1,120,0.1,108.0,33.96,Credit Card
+ORD00364,2024-10-15,Mouse,Electronics,Delhi,North,4,900,0.05,3420.0,992.22,UPI
+ORD00365,2024-02-12,Notebook,Stationery,Coimbatore,South,5,120,0.2,480.0,96.38,UPI
+ORD00366,2024-07-16,Desk,Furniture,Coimbatore,South,1,12000,0.0,12000.0,1636.14,Credit Card
+ORD00367,2024-04-21,Laptop,Electronics,Bengaluru,South,2,55000,0.2,88000.0,27204.29,UPI
+ORD00368,2024-03-26,Smartphone,Electronics,Madurai,South,2,25000,0.05,47500.0,11884.25,Cash
+ORD00369,2024-08-30,Notebook,Stationery,Kolkata,East,4,120,0.1,432.0,136.34,UPI
+ORD00370,2024-12-31,Desk,Furniture,Kolkata,East,5,12000,0.15,51000.0,9488.19,Cash
+ORD00371,2024-10-10,Office Chair,Furniture,Delhi,North,5,7500,0.15,31875.0,7396.16,Credit Card
+ORD00372,2024-02-13,Laptop,Electronics,Pune,West,2,55000,0.0,110000.0,23406.49,UPI
+ORD00373,2024-10-05,Backpack,Accessories,Hyderabad,South,4,1800,0.1,6480.0,1259.62,UPI
+ORD00374,2024-09-24,Smartphone,Electronics,Bengaluru,South,3,25000,0.1,67500.0,21120.43,Credit Card
+ORD00375,2024-03-25,Notebook,Stationery,Delhi,North,4,120,0.15,408.0,96.09,UPI
+ORD00376,2024-09-19,Notebook,Stationery,Trichy,South,2,120,0.05,228.0,52.8,Debit Card
+ORD00377,2024-08-07,Headphones,Electronics,Pune,West,3,2500,0.05,7125.0,1577.55,UPI
+ORD00378,2024-12-31,Desk,Furniture,Bengaluru,South,5,12000,0.15,51000.0,10611.3,Debit Card
+ORD00379,2024-03-03,Pen Set,Stationery,Mumbai,West,4,250,0.1,900.0,282.08,Net Banking
+ORD00380,2024-04-11,Desk,Furniture,Coimbatore,South,5,12000,0.2,48000.0,7353.17,Credit Card
+ORD00381,2024-07-14,Desk,Furniture,Delhi,North,3,12000,0.2,28800.0,3991.86,UPI
+ORD00382,2024-09-21,Keyboard,Electronics,Bengaluru,South,2,1800,0.05,3420.0,1076.24,Cash
+ORD00383,2024-12-29,Office Chair,Furniture,Delhi,North,2,7500,0.1,13500.0,2892.15,Cash
+ORD00384,2024-10-12,Pen Set,Stationery,Hyderabad,South,5,250,0.05,1187.5,339.21,Credit Card
+ORD00385,2024-06-28,Mouse,Electronics,Chennai,South,4,900,0.05,3420.0,574.47,Credit Card
+ORD00386,2024-10-05,Pen Set,Stationery,Kolkata,East,3,250,0.05,712.5,172.96,UPI
+ORD00387,2024-09-28,Mouse,Electronics,Madurai,South,4,900,0.1,3240.0,408.96,Credit Card
+ORD00388,2024-05-27,Smartphone,Electronics,Mumbai,West,3,25000,0.15,63750.0,9780.93,Cash
+ORD00389,2024-10-20,Laptop,Electronics,Kolkata,East,3,55000,0.15,140250.0,31209.97,Net Banking
+ORD00390,2024-05-21,Headphones,Electronics,Bengaluru,South,1,2500,0.2,2000.0,501.27,Cash
+ORD00391,2024-05-13,Laptop,Electronics,Coimbatore,South,1,55000,0.1,49500.0,12382.61,Debit Card
+ORD00392,2024-02-07,Desk,Furniture,Coimbatore,South,3,12000,0.1,32400.0,6784.92,Cash
+ORD00393,2024-12-09,Mouse,Electronics,Trichy,South,3,900,0.1,2430.0,300.35,Credit Card
+ORD00394,2024-10-01,Office Chair,Furniture,Madurai,South,1,7500,0.1,6750.0,1925.15,UPI
+ORD00395,2024-10-01,Keyboard,Electronics,Mumbai,West,5,1800,0.0,9000.0,2038.82,Cash
+ORD00396,2024-10-12,Notebook,Stationery,Trichy,South,5,120,0.2,480.0,66.87,UPI
+ORD00397,2024-11-29,Laptop,Electronics,Bengaluru,South,4,55000,0.0,220000.0,39478.46,UPI
+ORD00398,2024-05-04,Keyboard,Electronics,Pune,West,3,1800,0.15,4590.0,1356.13,UPI
+ORD00399,2024-02-19,Notebook,Stationery,Madurai,South,5,120,0.0,600.0,104.13,Net Banking
+ORD00400,2024-07-19,Mouse,Electronics,Bengaluru,South,5,900,0.15,3825.0,917.22,Net Banking
+ORD00401,2024-03-05,Pen Set,Stationery,Chennai,South,4,250,0.1,900.0,119.64,Net Banking
+ORD00402,2024-11-03,Desk,Furniture,Delhi,North,4,12000,0.15,40800.0,7677.06,Net Banking
+ORD00403,2024-06-05,Office Chair,Furniture,Hyderabad,South,5,7500,0.1,33750.0,8043.96,Debit Card
+ORD00404,2024-03-07,Keyboard,Electronics,Trichy,South,4,1800,0.15,6120.0,1205.04,Cash
+ORD00405,2024-03-12,Smartphone,Electronics,Mumbai,West,2,25000,0.1,45000.0,14254.56,UPI
+ORD00406,2024-05-15,Smartphone,Electronics,Hyderabad,South,1,25000,0.2,20000.0,2582.59,Debit Card
+ORD00407,2024-05-21,Backpack,Accessories,Chennai,South,1,1800,0.0,1800.0,440.11,Debit Card
+ORD00408,2024-07-08,Keyboard,Electronics,Hyderabad,South,1,1800,0.2,1440.0,418.79,Debit Card
+ORD00409,2024-09-01,Keyboard,Electronics,Kolkata,East,4,1800,0.0,7200.0,1530.51,UPI
+ORD00410,2024-10-31,Backpack,Accessories,Delhi,North,3,1800,0.0,5400.0,1530.02,UPI
+ORD00411,2024-02-08,Laptop,Electronics,Mumbai,West,5,55000,0.1,247500.0,58151.59,Net Banking
+ORD00412,2024-01-19,Headphones,Electronics,Chennai,South,3,2500,0.2,6000.0,1187.85,Cash
+ORD00413,2024-04-12,Notebook,Stationery,Chennai,South,5,120,0.2,480.0,136.68,Cash
+ORD00414,2024-08-02,Backpack,Accessories,Mumbai,West,5,1800,0.0,9000.0,2371.63,UPI
+ORD00415,2024-06-09,Keyboard,Electronics,Coimbatore,South,2,1800,0.05,3420.0,865.46,Cash
+ORD00416,2024-08-12,Smartphone,Electronics,Pune,West,5,25000,0.1,112500.0,30401.51,Cash
+ORD00417,2024-10-11,Backpack,Accessories,Mumbai,West,3,1800,0.0,5400.0,1093.69,UPI
+ORD00418,2024-02-20,Backpack,Accessories,Kolkata,East,2,1800,0.1,3240.0,714.2,UPI
+ORD00419,2024-04-26,Pen Set,Stationery,Trichy,South,4,250,0.1,900.0,222.82,Credit Card
+ORD00420,2024-09-24,Office Chair,Furniture,Chennai,South,3,7500,0.05,21375.0,5535.62,Debit Card
+ORD00421,2024-02-18,Laptop,Electronics,Bengaluru,South,5,55000,0.05,261250.0,37776.92,UPI
+ORD00422,2024-05-25,Desk,Furniture,Bengaluru,South,1,12000,0.15,10200.0,2636.69,Cash
+ORD00423,2024-01-30,Headphones,Electronics,Bengaluru,South,5,2500,0.0,12500.0,3654.36,Cash
+ORD00424,2024-12-25,Smartphone,Electronics,Delhi,North,3,25000,0.1,67500.0,13918.3,Debit Card
+ORD00425,2024-06-15,Backpack,Accessories,Hyderabad,South,3,1800,0.0,5400.0,1410.03,Credit Card
+ORD00426,2024-02-25,Notebook,Stationery,Mumbai,West,4,120,0.2,384.0,57.03,UPI
+ORD00427,2024-05-05,Laptop,Electronics,Kolkata,East,4,55000,0.1,198000.0,49334.57,Debit Card
+ORD00428,2024-04-25,Laptop,Electronics,Pune,West,1,55000,0.2,44000.0,8488.42,Cash
+ORD00429,2024-11-20,Office Chair,Furniture,Chennai,South,1,7500,0.15,6375.0,944.21,Debit Card
+ORD00430,2024-12-28,Headphones,Electronics,Trichy,South,3,2500,0.2,6000.0,839.16,Debit Card
+ORD00431,2024-09-01,Backpack,Accessories,Hyderabad,South,3,1800,0.05,5130.0,1391.48,Credit Card
+ORD00432,2024-12-22,Mouse,Electronics,Bengaluru,South,2,900,0.2,1440.0,448.1,Debit Card
+ORD00433,2024-03-17,Desk,Furniture,Delhi,North,4,12000,0.05,45600.0,14446.2,Debit Card
+ORD00434,2024-06-13,Keyboard,Electronics,Hyderabad,South,1,1800,0.2,1440.0,328.73,UPI
+ORD00435,2024-12-08,Laptop,Electronics,Hyderabad,South,5,55000,0.05,261250.0,44250.91,Debit Card
+ORD00436,2024-12-06,Headphones,Electronics,Madurai,South,2,2500,0.05,4750.0,738.31,Cash
+ORD00437,2024-04-01,Mouse,Electronics,Mumbai,West,4,900,0.1,3240.0,741.85,Net Banking
+ORD00438,2024-09-29,Headphones,Electronics,Trichy,South,5,2500,0.05,11875.0,2379.22,Debit Card
+ORD00439,2024-12-06,Smartphone,Electronics,Madurai,South,1,25000,0.05,23750.0,3806.23,Cash
+ORD00440,2024-03-04,Mouse,Electronics,Trichy,South,1,900,0.2,720.0,217.0,Debit Card
+ORD00441,2024-05-19,Mouse,Electronics,Hyderabad,South,2,900,0.1,1620.0,367.22,Net Banking
+ORD00442,2024-01-20,Office Chair,Furniture,Bengaluru,South,3,7500,0.15,19125.0,5332.86,UPI
+ORD00443,2024-10-30,Backpack,Accessories,Madurai,South,4,1800,0.0,7200.0,1530.25,Cash
+ORD00444,2024-08-03,Keyboard,Electronics,Hyderabad,South,2,1800,0.15,3060.0,686.94,Debit Card
+ORD00445,2024-08-06,Pen Set,Stationery,Chennai,South,3,250,0.05,712.5,208.84,Credit Card
+ORD00446,2024-11-24,Headphones,Electronics,Madurai,South,4,2500,0.2,8000.0,1280.76,Cash
+ORD00447,2024-05-26,Laptop,Electronics,Chennai,South,1,55000,0.0,55000.0,16423.99,Debit Card
+ORD00448,2024-01-22,Mouse,Electronics,Mumbai,West,5,900,0.2,3600.0,445.76,Net Banking
+ORD00449,2024-11-15,Office Chair,Furniture,Hyderabad,South,3,7500,0.1,20250.0,4565.27,Net Banking
+ORD00450,2024-08-09,Smartphone,Electronics,Pune,West,1,25000,0.1,22500.0,5078.6,Debit Card
+ORD00451,2024-01-30,Headphones,Electronics,Chennai,South,2,2500,0.05,4750.0,655.32,Debit Card
+ORD00452,2024-02-06,Laptop,Electronics,Bengaluru,South,4,55000,0.0,220000.0,58980.95,Net Banking
+ORD00453,2024-06-12,Notebook,Stationery,Delhi,North,5,120,0.15,510.0,139.34,Debit Card
+ORD00454,2024-12-23,Smartphone,Electronics,Trichy,South,1,25000,0.05,23750.0,4783.76,Debit Card
+ORD00455,2024-03-23,Headphones,Electronics,Coimbatore,South,3,2500,0.15,6375.0,772.76,Debit Card
+ORD00456,2024-05-23,Office Chair,Furniture,Mumbai,West,2,7500,0.0,15000.0,4326.22,Cash
+ORD00457,2024-10-16,Smartphone,Electronics,Pune,West,2,25000,0.05,47500.0,8505.26,Debit Card
+ORD00458,2024-11-16,Notebook,Stationery,Mumbai,West,3,120,0.2,288.0,62.0,UPI
+ORD00459,2024-10-01,Pen Set,Stationery,Bengaluru,South,5,250,0.2,1000.0,162.93,UPI
+ORD00460,2024-02-23,Pen Set,Stationery,Kolkata,East,1,250,0.05,237.5,67.52,Cash
+ORD00461,2024-11-30,Keyboard,Electronics,Trichy,South,2,1800,0.05,3420.0,617.78,Cash
+ORD00462,2024-10-16,Desk,Furniture,Mumbai,West,2,12000,0.15,20400.0,3095.19,Credit Card
+ORD00463,2024-03-19,Notebook,Stationery,Delhi,North,2,120,0.1,216.0,58.26,UPI
+ORD00464,2024-08-01,Laptop,Electronics,Kolkata,East,2,55000,0.2,88000.0,23144.68,UPI
+ORD00465,2024-11-15,Desk,Furniture,Hyderabad,South,2,12000,0.0,24000.0,4064.75,Net Banking
+ORD00466,2024-06-10,Pen Set,Stationery,Madurai,South,1,250,0.1,225.0,52.42,Cash
+ORD00467,2024-06-25,Keyboard,Electronics,Madurai,South,4,1800,0.05,6840.0,1414.26,Cash
+ORD00468,2024-11-11,Headphones,Electronics,Kolkata,East,5,2500,0.0,12500.0,1605.73,Debit Card
+ORD00469,2024-04-10,Pen Set,Stationery,Bengaluru,South,2,250,0.2,400.0,118.04,UPI
+ORD00470,2024-10-07,Notebook,Stationery,Chennai,South,4,120,0.1,432.0,110.26,UPI
+ORD00471,2024-10-24,Mouse,Electronics,Madurai,South,4,900,0.1,3240.0,806.21,UPI
+ORD00472,2024-05-25,Mouse,Electronics,Madurai,South,4,900,0.0,3600.0,761.54,Debit Card
+ORD00473,2024-04-09,Pen Set,Stationery,Coimbatore,South,4,250,0.0,1000.0,230.41,Credit Card
+ORD00474,2024-04-09,Pen Set,Stationery,Hyderabad,South,1,250,0.1,225.0,66.61,Net Banking
+ORD00475,2024-09-20,Desk,Furniture,Coimbatore,South,5,12000,0.2,48000.0,9549.45,Cash
+ORD00476,2024-05-28,Smartphone,Electronics,Hyderabad,South,3,25000,0.15,63750.0,15871.62,Cash
+ORD00477,2024-08-14,Notebook,Stationery,Bengaluru,South,1,120,0.15,102.0,18.1,Net Banking
+ORD00478,2024-02-22,Pen Set,Stationery,Bengaluru,South,1,250,0.05,237.5,41.21,Credit Card
+ORD00479,2024-06-11,Mouse,Electronics,Trichy,South,2,900,0.0,1800.0,557.58,UPI
+ORD00480,2024-01-29,Headphones,Electronics,Hyderabad,South,1,2500,0.15,2125.0,368.34,Debit Card
+ORD00481,2024-12-05,Pen Set,Stationery,Kolkata,East,4,250,0.05,950.0,242.73,Cash
+ORD00482,2024-07-05,Laptop,Electronics,Hyderabad,South,4,55000,0.05,209000.0,25788.41,UPI
+ORD00483,2024-01-07,Smartphone,Electronics,Delhi,North,5,25000,0.2,100000.0,27462.84,Cash
+ORD00484,2024-05-14,Pen Set,Stationery,Bengaluru,South,4,250,0.1,900.0,224.36,Cash
+ORD00485,2024-08-04,Headphones,Electronics,Pune,West,1,2500,0.1,2250.0,622.44,Net Banking
+ORD00486,2024-06-05,Office Chair,Furniture,Pune,West,3,7500,0.15,19125.0,2546.28,Credit Card
+ORD00487,2024-01-04,Smartphone,Electronics,Mumbai,West,4,25000,0.2,80000.0,20346.28,Credit Card
+ORD00488,2024-11-26,Notebook,Stationery,Pune,West,1,120,0.2,96.0,30.55,Cash
+ORD00489,2024-12-27,Office Chair,Furniture,Kolkata,East,1,7500,0.0,7500.0,1193.75,UPI
+ORD00490,2024-06-29,Backpack,Accessories,Madurai,South,1,1800,0.05,1710.0,255.46,Cash
+ORD00491,2024-07-06,Laptop,Electronics,Hyderabad,South,1,55000,0.15,46750.0,8326.22,UPI
+ORD00492,2024-03-24,Pen Set,Stationery,Chennai,South,2,250,0.05,475.0,145.41,Cash
+ORD00493,2024-08-13,Pen Set,Stationery,Coimbatore,South,3,250,0.0,750.0,135.29,Net Banking
+ORD00494,2024-03-26,Backpack,Accessories,Hyderabad,South,5,1800,0.2,7200.0,1259.57,Credit Card
+ORD00495,2024-08-22,Backpack,Accessories,Hyderabad,South,5,1800,0.1,8100.0,1693.78,Cash
+ORD00496,2024-06-04,Laptop,Electronics,Coimbatore,South,1,55000,0.1,49500.0,14392.47,Cash
+ORD00497,2024-07-02,Office Chair,Furniture,Madurai,South,1,7500,0.15,6375.0,1400.25,Debit Card
+ORD00498,2024-01-19,Backpack,Accessories,Bengaluru,South,1,1800,0.15,1530.0,317.32,Credit Card
+ORD00499,2024-05-04,Backpack,Accessories,Madurai,South,4,1800,0.15,6120.0,1630.52,Credit Card
+ORD00500,2024-09-03,Laptop,Electronics,Bengaluru,South,3,55000,0.1,148500.0,46121.03,Net Banking
+ORD00501,2024-03-24,Backpack,Accessories,Mumbai,West,4,1800,0.0,7200.0,1989.14,Credit Card
+ORD00502,2024-02-05,Office Chair,Furniture,Delhi,North,5,7500,0.15,31875.0,9150.72,Net Banking
+ORD00503,2024-12-25,Backpack,Accessories,Pune,West,3,1800,0.2,4320.0,1216.58,Credit Card
+ORD00504,2024-12-29,Desk,Furniture,Delhi,North,3,12000,0.2,28800.0,5775.92,Net Banking
+ORD00505,2024-06-03,Backpack,Accessories,Hyderabad,South,4,1800,0.0,7200.0,1436.88,Credit Card
+ORD00506,2024-04-26,Headphones,Electronics,Mumbai,West,1,2500,0.0,2500.0,485.86,Debit Card
+ORD00507,2024-09-30,Headphones,Electronics,Kolkata,East,1,2500,0.1,2250.0,430.7,Net Banking
+ORD00508,2024-11-19,Keyboard,Electronics,Bengaluru,South,5,1800,0.15,7650.0,1466.63,UPI
+ORD00509,2024-04-25,Smartphone,Electronics,Kolkata,East,1,25000,0.05,23750.0,7211.64,Credit Card
+ORD00510,2024-10-04,Pen Set,Stationery,Kolkata,East,1,250,0.2,200.0,62.25,Credit Card
+ORD00511,2024-05-18,Notebook,Stationery,Trichy,South,5,120,0.0,600.0,141.79,Debit Card
+ORD00512,2024-04-18,Mouse,Electronics,Kolkata,East,3,900,0.15,2295.0,660.8,Cash
+ORD00513,2024-10-05,Desk,Furniture,Bengaluru,South,2,12000,0.2,19200.0,5234.34,Credit Card
+ORD00514,2024-05-26,Keyboard,Electronics,Pune,West,2,1800,0.15,3060.0,481.12,Cash
+ORD00515,2024-07-13,Pen Set,Stationery,Kolkata,East,3,250,0.15,637.5,196.45,Debit Card
+ORD00516,2024-01-24,Notebook,Stationery,Coimbatore,South,5,120,0.15,510.0,140.14,Credit Card
+ORD00517,2024-06-29,Keyboard,Electronics,Delhi,North,3,1800,0.05,5130.0,1090.94,Cash
+ORD00518,2024-11-08,Desk,Furniture,Bengaluru,South,5,12000,0.2,48000.0,13109.25,Net Banking
+ORD00519,2024-04-12,Pen Set,Stationery,Delhi,North,4,250,0.2,800.0,251.69,Net Banking
+ORD00520,2024-11-27,Keyboard,Electronics,Hyderabad,South,3,1800,0.1,4860.0,1292.12,Debit Card
+ORD00521,2024-01-30,Keyboard,Electronics,Mumbai,West,1,1800,0.2,1440.0,348.37,Net Banking
+ORD00522,2024-02-16,Pen Set,Stationery,Delhi,North,3,250,0.1,675.0,131.08,Cash
+ORD00523,2024-02-28,Desk,Furniture,Pune,West,5,12000,0.2,48000.0,12105.74,Credit Card
+ORD00524,2024-01-10,Backpack,Accessories,Delhi,North,3,1800,0.05,5130.0,891.44,UPI
+ORD00525,2024-12-22,Laptop,Electronics,Delhi,North,4,55000,0.15,187000.0,27299.81,UPI
+ORD00526,2024-03-28,Laptop,Electronics,Trichy,South,1,55000,0.1,49500.0,15566.96,Credit Card
+ORD00527,2024-05-05,Notebook,Stationery,Mumbai,West,3,120,0.0,360.0,52.21,UPI
+ORD00528,2024-05-20,Laptop,Electronics,Delhi,North,2,55000,0.1,99000.0,15745.76,Cash
+ORD00529,2024-03-16,Keyboard,Electronics,Chennai,South,5,1800,0.1,8100.0,2107.9,Net Banking
+ORD00530,2024-04-09,Desk,Furniture,Madurai,South,1,12000,0.0,12000.0,2598.0,Cash
+ORD00531,2024-03-18,Smartphone,Electronics,Trichy,South,1,25000,0.1,22500.0,3259.72,Credit Card
+ORD00532,2024-11-10,Laptop,Electronics,Mumbai,West,2,55000,0.2,88000.0,14695.53,Net Banking
+ORD00533,2024-07-11,Headphones,Electronics,Chennai,South,1,2500,0.0,2500.0,570.37,Net Banking
+ORD00534,2024-02-12,Office Chair,Furniture,Madurai,South,5,7500,0.1,33750.0,6726.74,Credit Card
+ORD00535,2024-01-22,Pen Set,Stationery,Mumbai,West,4,250,0.15,850.0,155.81,Debit Card
+ORD00536,2024-03-23,Pen Set,Stationery,Coimbatore,South,5,250,0.1,1125.0,322.39,Debit Card
+ORD00537,2024-05-05,Smartphone,Electronics,Chennai,South,4,25000,0.15,85000.0,19530.6,Net Banking
+ORD00538,2024-01-05,Mouse,Electronics,Chennai,South,3,900,0.15,2295.0,704.56,UPI
+ORD00539,2024-01-19,Mouse,Electronics,Coimbatore,South,3,900,0.0,2700.0,557.69,Net Banking
+ORD00540,2024-03-19,Smartphone,Electronics,Trichy,South,4,25000,0.0,100000.0,25429.58,Debit Card
+ORD00541,2024-07-20,Office Chair,Furniture,Pune,West,5,7500,0.15,31875.0,5586.53,UPI
+ORD00542,2024-01-06,Pen Set,Stationery,Kolkata,East,2,250,0.2,400.0,62.35,Credit Card
+ORD00543,2024-08-06,Mouse,Electronics,Bengaluru,South,4,900,0.0,3600.0,568.67,UPI
+ORD00544,2024-10-17,Desk,Furniture,Kolkata,East,3,12000,0.1,32400.0,7236.8,Credit Card
+ORD00545,2024-06-05,Notebook,Stationery,Mumbai,West,2,120,0.05,228.0,30.87,Cash
+ORD00546,2024-11-17,Pen Set,Stationery,Madurai,South,4,250,0.15,850.0,208.02,Net Banking
+ORD00547,2024-12-17,Smartphone,Electronics,Kolkata,East,3,25000,0.1,67500.0,14184.27,UPI
+ORD00548,2024-03-05,Keyboard,Electronics,Coimbatore,South,3,1800,0.15,4590.0,1345.88,Debit Card
+ORD00549,2024-05-29,Backpack,Accessories,Bengaluru,South,1,1800,0.05,1710.0,528.3,Debit Card
+ORD00550,2024-10-10,Mouse,Electronics,Coimbatore,South,3,900,0.15,2295.0,446.86,UPI
+ORD00551,2024-06-12,Laptop,Electronics,Mumbai,West,5,55000,0.15,233750.0,39882.5,Debit Card
+ORD00552,2024-04-15,Laptop,Electronics,Delhi,North,2,55000,0.15,93500.0,26924.29,UPI
+ORD00553,2024-08-31,Backpack,Accessories,Hyderabad,South,2,1800,0.1,3240.0,600.72,Debit Card
+ORD00554,2024-03-13,Mouse,Electronics,Trichy,South,1,900,0.15,765.0,158.26,Debit Card
+ORD00555,2024-02-10,Backpack,Accessories,Chennai,South,3,1800,0.15,4590.0,1052.83,Credit Card
+ORD00556,2024-09-01,Smartphone,Electronics,Pune,West,4,25000,0.2,80000.0,20063.91,Cash
+ORD00557,2024-03-01,Laptop,Electronics,Coimbatore,South,1,55000,0.2,44000.0,5830.23,Credit Card
+ORD00558,2024-05-17,Headphones,Electronics,Coimbatore,South,2,2500,0.0,5000.0,972.2,Credit Card
+ORD00559,2024-12-23,Office Chair,Furniture,Pune,West,3,7500,0.15,19125.0,3061.08,UPI
+ORD00560,2024-04-16,Desk,Furniture,Kolkata,East,3,12000,0.1,32400.0,6658.17,UPI
+ORD00561,2024-05-16,Desk,Furniture,Chennai,South,1,12000,0.15,10200.0,3050.51,Credit Card
+ORD00562,2024-12-28,Notebook,Stationery,Coimbatore,South,3,120,0.2,288.0,70.86,Debit Card
+ORD00563,2024-02-06,Office Chair,Furniture,Coimbatore,South,2,7500,0.15,12750.0,3185.77,Cash
+ORD00564,2024-09-16,Smartphone,Electronics,Kolkata,East,2,25000,0.1,45000.0,5597.22,Net Banking
+ORD00565,2024-08-29,Office Chair,Furniture,Chennai,South,4,7500,0.15,25500.0,6958.65,UPI
+ORD00566,2024-12-13,Laptop,Electronics,Bengaluru,South,5,55000,0.2,220000.0,61006.98,Net Banking
+ORD00567,2024-03-09,Smartphone,Electronics,Trichy,South,3,25000,0.2,60000.0,12554.41,UPI
+ORD00568,2024-06-01,Keyboard,Electronics,Pune,West,4,1800,0.15,6120.0,1411.74,Net Banking
+ORD00569,2024-02-24,Backpack,Accessories,Mumbai,West,4,1800,0.0,7200.0,1175.13,Net Banking
+ORD00570,2024-12-01,Keyboard,Electronics,Kolkata,East,2,1800,0.0,3600.0,627.48,UPI
+ORD00571,2024-04-18,Laptop,Electronics,Delhi,North,5,55000,0.2,220000.0,29816.19,Debit Card
+ORD00572,2024-03-16,Desk,Furniture,Kolkata,East,1,12000,0.2,9600.0,2850.0,Debit Card
+ORD00573,2024-06-08,Pen Set,Stationery,Bengaluru,South,1,250,0.2,200.0,40.44,Cash
+ORD00574,2024-05-13,Desk,Furniture,Mumbai,West,5,12000,0.0,60000.0,7223.91,Cash
+ORD00575,2024-05-01,Smartphone,Electronics,Kolkata,East,1,25000,0.0,25000.0,7408.31,Credit Card
+ORD00576,2024-01-11,Headphones,Electronics,Delhi,North,4,2500,0.05,9500.0,1542.6,Debit Card
+ORD00577,2024-01-19,Office Chair,Furniture,Delhi,North,4,7500,0.1,27000.0,5485.19,Debit Card
+ORD00578,2024-05-20,Backpack,Accessories,Coimbatore,South,2,1800,0.0,3600.0,667.84,UPI
+ORD00579,2024-11-12,Smartphone,Electronics,Chennai,South,5,25000,0.2,100000.0,21914.08,Net Banking
+ORD00580,2024-10-08,Desk,Furniture,Mumbai,West,2,12000,0.0,24000.0,3428.57,UPI
+ORD00581,2024-08-28,Headphones,Electronics,Mumbai,West,2,2500,0.0,5000.0,1019.27,UPI
+ORD00582,2024-04-26,Pen Set,Stationery,Madurai,South,3,250,0.2,600.0,139.28,Debit Card
+ORD00583,2024-04-29,Backpack,Accessories,Hyderabad,South,4,1800,0.0,7200.0,1905.76,UPI
+ORD00584,2024-07-17,Pen Set,Stationery,Madurai,South,1,250,0.1,225.0,39.85,Net Banking
+ORD00585,2024-05-18,Headphones,Electronics,Delhi,North,3,2500,0.05,7125.0,2112.65,Net Banking
+ORD00586,2024-01-22,Pen Set,Stationery,Coimbatore,South,2,250,0.1,450.0,60.03,Cash
+ORD00587,2024-06-21,Pen Set,Stationery,Trichy,South,4,250,0.15,850.0,212.21,Credit Card
+ORD00588,2024-08-08,Smartphone,Electronics,Hyderabad,South,5,25000,0.2,100000.0,20669.44,Debit Card
+ORD00589,2024-07-24,Backpack,Accessories,Madurai,South,5,1800,0.1,8100.0,1085.41,Debit Card
+ORD00590,2024-04-16,Desk,Furniture,Trichy,South,4,12000,0.1,43200.0,5575.56,Debit Card
+ORD00591,2024-07-25,Smartphone,Electronics,Coimbatore,South,1,25000,0.0,25000.0,6864.05,UPI
+ORD00592,2024-11-13,Keyboard,Electronics,Kolkata,East,1,1800,0.05,1710.0,472.63,Credit Card
+ORD00593,2024-02-13,Keyboard,Electronics,Bengaluru,South,1,1800,0.1,1620.0,261.55,Net Banking
+ORD00594,2024-08-02,Desk,Furniture,Hyderabad,South,4,12000,0.0,48000.0,12959.79,Debit Card
+ORD00595,2024-03-02,Mouse,Electronics,Kolkata,East,2,900,0.15,1530.0,360.71,Credit Card
+ORD00596,2024-04-13,Backpack,Accessories,Hyderabad,South,5,1800,0.2,7200.0,1420.15,Debit Card
+ORD00597,2024-07-22,Pen Set,Stationery,Coimbatore,South,5,250,0.1,1125.0,230.59,Credit Card
+ORD00598,2024-12-11,Laptop,Electronics,Coimbatore,South,2,55000,0.05,104500.0,20540.49,Credit Card
+ORD00599,2024-03-01,Laptop,Electronics,Hyderabad,South,1,55000,0.1,49500.0,13347.51,UPI
+ORD00600,2024-03-14,Mouse,Electronics,Trichy,South,2,900,0.2,1440.0,410.05,Net Banking
+ORD00601,2024-06-09,Keyboard,Electronics,Bengaluru,South,4,1800,0.05,6840.0,1843.84,Cash
+ORD00602,2024-04-05,Notebook,Stationery,Hyderabad,South,1,120,0.2,96.0,12.17,Debit Card
+ORD00603,2024-12-31,Mouse,Electronics,Hyderabad,South,4,900,0.05,3420.0,703.83,Debit Card
+ORD00604,2024-09-20,Notebook,Stationery,Hyderabad,South,5,120,0.2,480.0,66.66,Debit Card
+ORD00605,2024-10-13,Laptop,Electronics,Trichy,South,5,55000,0.1,247500.0,74403.14,Debit Card
+ORD00606,2024-09-09,Backpack,Accessories,Madurai,South,3,1800,0.2,4320.0,1011.88,Net Banking
+ORD00607,2024-10-30,Laptop,Electronics,Bengaluru,South,3,55000,0.15,140250.0,38813.86,Net Banking
+ORD00608,2024-07-25,Headphones,Electronics,Trichy,South,2,2500,0.0,5000.0,638.94,Debit Card
+ORD00609,2024-05-17,Backpack,Accessories,Bengaluru,South,3,1800,0.1,4860.0,1423.43,Debit Card
+ORD00610,2024-03-14,Pen Set,Stationery,Madurai,South,4,250,0.2,800.0,166.77,Net Banking
+ORD00611,2024-04-19,Pen Set,Stationery,Mumbai,West,4,250,0.1,900.0,275.07,Credit Card
+ORD00612,2024-09-24,Desk,Furniture,Bengaluru,South,4,12000,0.2,38400.0,12254.45,Credit Card
+ORD00613,2024-01-14,Keyboard,Electronics,Trichy,South,1,1800,0.05,1710.0,526.66,Debit Card
+ORD00614,2024-10-03,Smartphone,Electronics,Pune,West,3,25000,0.05,71250.0,21969.11,Cash
+ORD00615,2024-12-04,Mouse,Electronics,Delhi,North,1,900,0.1,810.0,202.28,UPI
+ORD00616,2024-08-01,Desk,Furniture,Pune,West,4,12000,0.0,48000.0,12529.34,Credit Card
+ORD00617,2024-02-28,Laptop,Electronics,Trichy,South,5,55000,0.05,261250.0,67161.91,Debit Card
+ORD00618,2024-01-13,Notebook,Stationery,Pune,West,4,120,0.1,432.0,134.23,Net Banking
+ORD00619,2024-01-26,Smartphone,Electronics,Hyderabad,South,5,25000,0.0,125000.0,31064.44,Debit Card
+ORD00620,2024-01-29,Notebook,Stationery,Hyderabad,South,4,120,0.1,432.0,112.55,Credit Card
+ORD00621,2024-11-13,Laptop,Electronics,Mumbai,West,4,55000,0.15,187000.0,55461.01,Debit Card
+ORD00622,2024-06-29,Desk,Furniture,Pune,West,5,12000,0.1,54000.0,8603.86,UPI
+ORD00623,2024-08-26,Headphones,Electronics,Bengaluru,South,3,2500,0.15,6375.0,1909.14,UPI
+ORD00624,2024-09-24,Notebook,Stationery,Mumbai,West,5,120,0.15,510.0,105.61,UPI
+ORD00625,2024-04-07,Laptop,Electronics,Madurai,South,2,55000,0.2,88000.0,20273.04,Credit Card
+ORD00626,2024-02-19,Desk,Furniture,Coimbatore,South,4,12000,0.05,45600.0,9803.55,Credit Card
+ORD00627,2024-10-22,Keyboard,Electronics,Madurai,South,5,1800,0.15,7650.0,2425.51,Cash
+ORD00628,2024-02-08,Notebook,Stationery,Pune,West,3,120,0.2,288.0,42.03,Cash
+ORD00629,2024-03-26,Laptop,Electronics,Trichy,South,4,55000,0.2,176000.0,28529.84,Cash
+ORD00630,2024-09-22,Smartphone,Electronics,Bengaluru,South,2,25000,0.1,45000.0,9706.47,Debit Card
+ORD00631,2024-11-08,Desk,Furniture,Mumbai,West,1,12000,0.0,12000.0,3802.16,Credit Card
+ORD00632,2024-06-24,Mouse,Electronics,Hyderabad,South,2,900,0.0,1800.0,477.0,Credit Card
+ORD00633,2024-11-14,Headphones,Electronics,Kolkata,East,4,2500,0.0,10000.0,1827.75,Net Banking
+ORD00634,2024-03-22,Laptop,Electronics,Kolkata,East,1,55000,0.15,46750.0,7434.81,Net Banking
+ORD00635,2024-11-22,Pen Set,Stationery,Hyderabad,South,4,250,0.15,850.0,244.5,UPI
+ORD00636,2024-12-30,Headphones,Electronics,Delhi,North,2,2500,0.15,4250.0,946.77,UPI
+ORD00637,2024-09-26,Laptop,Electronics,Delhi,North,5,55000,0.1,247500.0,55088.4,Cash
+ORD00638,2024-04-29,Desk,Furniture,Hyderabad,South,1,12000,0.2,9600.0,1404.77,Cash
+ORD00639,2024-08-13,Mouse,Electronics,Madurai,South,3,900,0.15,2295.0,359.32,Net Banking
+ORD00640,2024-07-05,Office Chair,Furniture,Kolkata,East,1,7500,0.1,6750.0,1305.98,Cash
+ORD00641,2024-12-10,Laptop,Electronics,Bengaluru,South,3,55000,0.2,132000.0,20463.25,UPI
+ORD00642,2024-01-13,Mouse,Electronics,Mumbai,West,2,900,0.15,1530.0,363.81,Net Banking
+ORD00643,2024-12-02,Backpack,Accessories,Trichy,South,2,1800,0.0,3600.0,703.1,Cash
+ORD00644,2024-11-23,Laptop,Electronics,Chennai,South,1,55000,0.2,44000.0,7866.75,Credit Card
+ORD00645,2024-06-04,Desk,Furniture,Mumbai,West,3,12000,0.05,34200.0,4148.02,UPI
+ORD00646,2024-01-13,Desk,Furniture,Chennai,South,2,12000,0.05,22800.0,5946.62,Credit Card
+ORD00647,2024-04-21,Smartphone,Electronics,Bengaluru,South,5,25000,0.1,112500.0,30665.1,UPI
+ORD00648,2024-12-29,Notebook,Stationery,Delhi,North,3,120,0.15,306.0,65.38,Net Banking
+ORD00649,2024-06-30,Desk,Furniture,Delhi,North,4,12000,0.0,48000.0,9966.51,UPI
+ORD00650,2024-05-19,Headphones,Electronics,Delhi,North,3,2500,0.05,7125.0,1333.81,UPI
+ORD00651,2024-02-11,Pen Set,Stationery,Chennai,South,1,250,0.1,225.0,54.48,Debit Card
+ORD00652,2024-08-08,Desk,Furniture,Chennai,South,3,12000,0.0,36000.0,6025.92,Net Banking
+ORD00653,2024-08-20,Mouse,Electronics,Madurai,South,2,900,0.2,1440.0,323.92,UPI
+ORD00654,2024-04-24,Headphones,Electronics,Pune,West,3,2500,0.1,6750.0,850.64,Credit Card
+ORD00655,2024-07-02,Notebook,Stationery,Chennai,South,3,120,0.15,306.0,76.71,Cash
+ORD00656,2024-08-05,Smartphone,Electronics,Trichy,South,5,25000,0.1,112500.0,30129.01,UPI
+ORD00657,2024-04-14,Keyboard,Electronics,Trichy,South,2,1800,0.2,2880.0,736.19,Cash
+ORD00658,2024-08-25,Desk,Furniture,Kolkata,East,4,12000,0.1,43200.0,7587.04,Debit Card
+ORD00659,2024-07-26,Laptop,Electronics,Pune,West,2,55000,0.05,104500.0,23846.96,Credit Card
+ORD00660,2024-07-02,Keyboard,Electronics,Delhi,North,4,1800,0.1,6480.0,1088.63,Cash
+ORD00661,2024-04-27,Notebook,Stationery,Coimbatore,South,5,120,0.0,600.0,94.73,Credit Card
+ORD00662,2024-11-18,Pen Set,Stationery,Pune,West,2,250,0.15,425.0,100.12,Net Banking
+ORD00663,2024-04-14,Headphones,Electronics,Chennai,South,2,2500,0.1,4500.0,546.19,Net Banking
+ORD00664,2024-05-11,Backpack,Accessories,Trichy,South,2,1800,0.05,3420.0,928.51,UPI
+ORD00665,2024-12-05,Office Chair,Furniture,Madurai,South,1,7500,0.05,7125.0,1342.5,UPI
+ORD00666,2024-09-09,Keyboard,Electronics,Chennai,South,5,1800,0.2,7200.0,1032.37,Credit Card
+ORD00667,2024-03-10,Backpack,Accessories,Bengaluru,South,4,1800,0.0,7200.0,1704.39,UPI
+ORD00668,2024-08-14,Desk,Furniture,Coimbatore,South,4,12000,0.1,43200.0,6098.57,Debit Card
+ORD00669,2024-07-18,Notebook,Stationery,Delhi,North,2,120,0.05,228.0,70.35,Debit Card
+ORD00670,2024-02-25,Mouse,Electronics,Bengaluru,South,2,900,0.2,1440.0,306.43,Debit Card
+ORD00671,2024-01-02,Office Chair,Furniture,Delhi,North,5,7500,0.2,30000.0,8974.19,UPI
+ORD00672,2024-08-07,Notebook,Stationery,Mumbai,West,4,120,0.1,432.0,66.75,Credit Card
+ORD00673,2024-09-03,Pen Set,Stationery,Pune,West,2,250,0.2,400.0,75.8,Cash
+ORD00674,2024-04-10,Pen Set,Stationery,Mumbai,West,4,250,0.0,1000.0,163.65,UPI
+ORD00675,2024-11-30,Laptop,Electronics,Hyderabad,South,1,55000,0.05,52250.0,15651.42,UPI
+ORD00676,2024-09-29,Office Chair,Furniture,Pune,West,3,7500,0.2,18000.0,2729.89,UPI
+ORD00677,2024-03-18,Office Chair,Furniture,Chennai,South,2,7500,0.2,12000.0,3443.02,Net Banking
+ORD00678,2024-09-25,Office Chair,Furniture,Hyderabad,South,3,7500,0.2,18000.0,4902.78,UPI
+ORD00679,2024-02-27,Mouse,Electronics,Hyderabad,South,3,900,0.15,2295.0,587.15,UPI
+ORD00680,2024-01-20,Desk,Furniture,Kolkata,East,1,12000,0.05,11400.0,3504.61,Debit Card
+ORD00681,2024-01-13,Smartphone,Electronics,Chennai,South,2,25000,0.15,42500.0,12988.87,Cash
+ORD00682,2024-04-09,Desk,Furniture,Madurai,South,3,12000,0.1,32400.0,4385.68,Debit Card
+ORD00683,2024-02-19,Backpack,Accessories,Chennai,South,4,1800,0.2,5760.0,1727.15,UPI
+ORD00684,2024-08-26,Headphones,Electronics,Hyderabad,South,4,2500,0.2,8000.0,2041.32,Cash
+ORD00685,2024-10-10,Notebook,Stationery,Trichy,South,3,120,0.15,306.0,62.37,Net Banking
+ORD00686,2024-09-20,Smartphone,Electronics,Delhi,North,3,25000,0.1,67500.0,12326.18,Cash
+ORD00687,2024-10-12,Headphones,Electronics,Delhi,North,2,2500,0.2,4000.0,708.56,Credit Card
+ORD00688,2024-02-29,Office Chair,Furniture,Bengaluru,South,2,7500,0.05,14250.0,3935.75,Credit Card
+ORD00689,2024-01-06,Desk,Furniture,Trichy,South,5,12000,0.05,57000.0,15596.66,Credit Card
+ORD00690,2024-01-06,Smartphone,Electronics,Bengaluru,South,2,25000,0.0,50000.0,15015.83,Debit Card
+ORD00691,2024-12-02,Headphones,Electronics,Chennai,South,2,2500,0.1,4500.0,1167.03,UPI
+ORD00692,2024-05-29,Headphones,Electronics,Hyderabad,South,5,2500,0.1,11250.0,1647.91,Debit Card
+ORD00693,2024-01-18,Backpack,Accessories,Mumbai,West,3,1800,0.0,5400.0,1144.42,UPI
+ORD00694,2024-03-09,Pen Set,Stationery,Madurai,South,1,250,0.05,237.5,70.64,Cash
+ORD00695,2024-01-25,Desk,Furniture,Coimbatore,South,1,12000,0.15,10200.0,1572.71,Credit Card
+ORD00696,2024-01-25,Backpack,Accessories,Mumbai,West,1,1800,0.05,1710.0,480.5,Debit Card
+ORD00697,2024-03-25,Keyboard,Electronics,Madurai,South,2,1800,0.05,3420.0,571.14,Net Banking
+ORD00698,2024-10-24,Office Chair,Furniture,Coimbatore,South,5,7500,0.0,37500.0,11448.48,Credit Card
+ORD00699,2024-07-05,Office Chair,Furniture,Chennai,South,3,7500,0.1,20250.0,2469.23,Credit Card
+ORD00700,2024-11-28,Office Chair,Furniture,Kolkata,East,1,7500,0.15,6375.0,1515.15,Cash
+ORD00701,2024-03-03,Desk,Furniture,Pune,West,2,12000,0.05,22800.0,6859.35,Cash
+ORD00702,2024-01-08,Laptop,Electronics,Pune,West,5,55000,0.0,275000.0,47266.36,Net Banking
+ORD00703,2024-03-16,Backpack,Accessories,Hyderabad,South,4,1800,0.15,6120.0,1147.44,Net Banking
+ORD00704,2024-10-19,Desk,Furniture,Trichy,South,2,12000,0.2,19200.0,4195.34,Net Banking
+ORD00705,2024-01-21,Headphones,Electronics,Madurai,South,4,2500,0.15,8500.0,1387.63,Net Banking
+ORD00706,2024-11-14,Desk,Furniture,Trichy,South,4,12000,0.2,38400.0,10244.39,Cash
+ORD00707,2024-02-14,Smartphone,Electronics,Hyderabad,South,2,25000,0.2,40000.0,5077.38,Debit Card
+ORD00708,2024-01-22,Desk,Furniture,Hyderabad,South,2,12000,0.2,19200.0,3301.74,Cash
+ORD00709,2024-02-07,Keyboard,Electronics,Mumbai,West,4,1800,0.0,7200.0,1024.04,Cash
+ORD00710,2024-01-05,Pen Set,Stationery,Trichy,South,4,250,0.0,1000.0,141.12,Cash
+ORD00711,2024-10-26,Desk,Furniture,Hyderabad,South,3,12000,0.2,28800.0,7322.52,Credit Card
+ORD00712,2024-06-07,Backpack,Accessories,Mumbai,West,1,1800,0.05,1710.0,245.31,Debit Card
+ORD00713,2024-10-14,Pen Set,Stationery,Madurai,South,5,250,0.2,1000.0,317.03,Credit Card
+ORD00714,2024-09-29,Keyboard,Electronics,Coimbatore,South,2,1800,0.05,3420.0,636.31,Net Banking
+ORD00715,2024-11-22,Notebook,Stationery,Mumbai,West,1,120,0.1,108.0,15.11,Credit Card
+ORD00716,2024-11-16,Smartphone,Electronics,Chennai,South,4,25000,0.0,100000.0,21844.65,Cash
+ORD00717,2024-04-17,Mouse,Electronics,Kolkata,East,2,900,0.05,1710.0,501.22,Debit Card
+ORD00718,2024-10-09,Backpack,Accessories,Madurai,South,3,1800,0.05,5130.0,948.36,UPI
+ORD00719,2024-01-30,Office Chair,Furniture,Coimbatore,South,2,7500,0.0,15000.0,3526.08,Cash
+ORD00720,2024-10-22,Office Chair,Furniture,Kolkata,East,4,7500,0.0,30000.0,7754.13,UPI
+ORD00721,2024-08-24,Notebook,Stationery,Bengaluru,South,1,120,0.05,114.0,28.51,UPI
+ORD00722,2024-06-08,Keyboard,Electronics,Delhi,North,2,1800,0.1,3240.0,1034.8,Credit Card
+ORD00723,2024-12-11,Pen Set,Stationery,Pune,West,2,250,0.15,425.0,61.74,UPI
+ORD00724,2024-03-06,Backpack,Accessories,Trichy,South,1,1800,0.05,1710.0,370.29,UPI
+ORD00725,2024-06-07,Headphones,Electronics,Pune,West,4,2500,0.15,8500.0,1857.42,UPI
+ORD00726,2024-05-04,Smartphone,Electronics,Bengaluru,South,5,25000,0.15,106250.0,25008.73,Net Banking
+ORD00727,2024-05-07,Backpack,Accessories,Pune,West,5,1800,0.05,8550.0,1609.04,Credit Card
+ORD00728,2024-05-06,Office Chair,Furniture,Trichy,South,4,7500,0.2,24000.0,6368.83,Net Banking
+ORD00729,2024-10-20,Keyboard,Electronics,Trichy,South,1,1800,0.0,1800.0,437.21,Debit Card
+ORD00730,2024-04-13,Desk,Furniture,Bengaluru,South,5,12000,0.1,54000.0,13627.81,Debit Card
+ORD00731,2024-07-17,Desk,Furniture,Mumbai,West,4,12000,0.0,48000.0,11103.15,Cash
+ORD00732,2024-10-09,Laptop,Electronics,Coimbatore,South,1,55000,0.15,46750.0,8585.75,Cash
+ORD00733,2024-12-20,Desk,Furniture,Chennai,South,3,12000,0.1,32400.0,3976.35,UPI
+ORD00734,2024-07-19,Headphones,Electronics,Trichy,South,5,2500,0.1,11250.0,2622.93,Net Banking
+ORD00735,2024-03-29,Office Chair,Furniture,Bengaluru,South,1,7500,0.05,7125.0,1408.94,UPI
+ORD00736,2024-12-09,Keyboard,Electronics,Mumbai,West,4,1800,0.1,6480.0,2057.19,Debit Card
+ORD00737,2024-07-11,Office Chair,Furniture,Trichy,South,2,7500,0.1,13500.0,3193.33,Credit Card
+ORD00738,2024-11-21,Mouse,Electronics,Coimbatore,South,1,900,0.0,900.0,229.05,Net Banking
+ORD00739,2024-12-29,Headphones,Electronics,Madurai,South,1,2500,0.1,2250.0,569.98,Cash
+ORD00740,2024-08-30,Keyboard,Electronics,Delhi,North,5,1800,0.15,7650.0,2148.27,Debit Card
+ORD00741,2024-02-21,Office Chair,Furniture,Delhi,North,3,7500,0.2,18000.0,3184.35,Net Banking
+ORD00742,2024-10-24,Office Chair,Furniture,Pune,West,3,7500,0.1,20250.0,2938.48,Credit Card
+ORD00743,2024-07-29,Headphones,Electronics,Delhi,North,2,2500,0.1,4500.0,617.43,Debit Card
+ORD00744,2024-10-20,Desk,Furniture,Kolkata,East,3,12000,0.05,34200.0,9713.26,Credit Card
+ORD00745,2024-12-20,Headphones,Electronics,Kolkata,East,4,2500,0.0,10000.0,1507.84,Debit Card
+ORD00746,2024-06-02,Keyboard,Electronics,Trichy,South,3,1800,0.2,4320.0,682.5,Cash
+ORD00747,2024-09-25,Headphones,Electronics,Bengaluru,South,5,2500,0.2,10000.0,1831.55,UPI
+ORD00748,2024-10-31,Office Chair,Furniture,Hyderabad,South,1,7500,0.15,6375.0,1565.85,Credit Card
+ORD00749,2024-08-22,Office Chair,Furniture,Mumbai,West,1,7500,0.2,6000.0,1101.58,UPI
+ORD00750,2024-09-26,Backpack,Accessories,Madurai,South,1,1800,0.2,1440.0,194.9,Debit Card
+ORD00751,2024-12-23,Laptop,Electronics,Pune,West,3,55000,0.15,140250.0,44481.84,Credit Card
+ORD00752,2024-08-04,Mouse,Electronics,Hyderabad,South,4,900,0.05,3420.0,721.88,Credit Card
+ORD00753,2024-05-17,Desk,Furniture,Chennai,South,1,12000,0.05,11400.0,1713.27,UPI
+ORD00754,2024-06-09,Desk,Furniture,Hyderabad,South,5,12000,0.05,57000.0,16737.13,UPI
+ORD00755,2024-08-05,Mouse,Electronics,Trichy,South,4,900,0.05,3420.0,912.71,Cash
+ORD00756,2024-10-18,Laptop,Electronics,Madurai,South,2,55000,0.0,110000.0,15762.51,Credit Card
+ORD00757,2024-01-16,Keyboard,Electronics,Delhi,North,3,1800,0.1,4860.0,968.42,Debit Card
+ORD00758,2024-02-08,Keyboard,Electronics,Mumbai,West,5,1800,0.0,9000.0,2771.22,UPI
+ORD00759,2024-06-29,Keyboard,Electronics,Trichy,South,3,1800,0.05,5130.0,1419.44,Net Banking
+ORD00760,2024-03-10,Laptop,Electronics,Mumbai,West,2,55000,0.05,104500.0,19346.81,Cash
+ORD00761,2024-12-22,Notebook,Stationery,Coimbatore,South,3,120,0.2,288.0,68.01,UPI
+ORD00762,2024-12-15,Backpack,Accessories,Bengaluru,South,1,1800,0.05,1710.0,473.99,Debit Card
+ORD00763,2024-08-22,Desk,Furniture,Mumbai,West,1,12000,0.2,9600.0,1587.25,Net Banking
+ORD00764,2024-05-14,Smartphone,Electronics,Hyderabad,South,4,25000,0.2,80000.0,11633.54,Debit Card
+ORD00765,2024-04-04,Smartphone,Electronics,Kolkata,East,4,25000,0.2,80000.0,16681.24,Credit Card
+ORD00766,2024-04-02,Keyboard,Electronics,Trichy,South,3,1800,0.05,5130.0,977.88,Credit Card
+ORD00767,2024-02-24,Office Chair,Furniture,Mumbai,West,2,7500,0.0,15000.0,3595.69,Debit Card
+ORD00768,2024-09-21,Desk,Furniture,Madurai,South,4,12000,0.15,40800.0,10001.31,Credit Card
+ORD00769,2024-11-25,Office Chair,Furniture,Kolkata,East,5,7500,0.2,30000.0,5300.18,Debit Card
+ORD00770,2024-12-13,Desk,Furniture,Madurai,South,2,12000,0.2,19200.0,3012.32,Net Banking
+ORD00771,2024-01-08,Headphones,Electronics,Madurai,South,4,2500,0.2,8000.0,2373.7,Credit Card
+ORD00772,2024-05-15,Keyboard,Electronics,Bengaluru,South,4,1800,0.1,6480.0,811.05,Net Banking
+ORD00773,2024-01-15,Headphones,Electronics,Bengaluru,South,1,2500,0.15,2125.0,275.7,Credit Card
+ORD00774,2024-07-26,Pen Set,Stationery,Chennai,South,1,250,0.2,200.0,37.22,UPI
+ORD00775,2024-06-02,Pen Set,Stationery,Delhi,North,2,250,0.15,425.0,61.79,UPI
+ORD00776,2024-01-25,Keyboard,Electronics,Hyderabad,South,1,1800,0.1,1620.0,416.12,Credit Card
+ORD00777,2024-02-25,Smartphone,Electronics,Delhi,North,3,25000,0.15,63750.0,8356.55,Debit Card
+ORD00778,2024-09-05,Pen Set,Stationery,Chennai,South,4,250,0.15,850.0,105.78,Credit Card
+ORD00779,2024-04-27,Headphones,Electronics,Bengaluru,South,2,2500,0.2,4000.0,557.57,Credit Card
+ORD00780,2024-06-23,Smartphone,Electronics,Mumbai,West,2,25000,0.05,47500.0,6767.46,Cash
+ORD00781,2024-11-04,Smartphone,Electronics,Madurai,South,1,25000,0.1,22500.0,7166.32,Credit Card
+ORD00782,2024-02-20,Office Chair,Furniture,Pune,West,5,7500,0.15,31875.0,6370.75,Debit Card
+ORD00783,2024-07-05,Desk,Furniture,Mumbai,West,3,12000,0.05,34200.0,5968.93,UPI
+ORD00784,2024-06-25,Headphones,Electronics,Trichy,South,4,2500,0.1,9000.0,2639.56,Net Banking
+ORD00785,2024-10-20,Backpack,Accessories,Madurai,South,3,1800,0.05,5130.0,1087.2,Net Banking
+ORD00786,2024-02-15,Desk,Furniture,Madurai,South,4,12000,0.15,40800.0,8127.37,Cash
+ORD00787,2024-03-05,Desk,Furniture,Pune,West,5,12000,0.05,57000.0,8294.3,Debit Card
+ORD00788,2024-03-17,Desk,Furniture,Mumbai,West,3,12000,0.1,32400.0,7704.85,Debit Card
+ORD00789,2024-12-12,Smartphone,Electronics,Delhi,North,1,25000,0.2,20000.0,3195.26,Net Banking
+ORD00790,2024-12-05,Smartphone,Electronics,Kolkata,East,3,25000,0.1,67500.0,14485.87,Debit Card
+ORD00791,2024-10-13,Office Chair,Furniture,Bengaluru,South,3,7500,0.0,22500.0,5253.26,Net Banking
+ORD00792,2024-04-10,Backpack,Accessories,Chennai,South,5,1800,0.2,7200.0,1055.78,Net Banking
+ORD00793,2024-10-23,Laptop,Electronics,Coimbatore,South,4,55000,0.0,220000.0,39080.12,Debit Card
+ORD00794,2024-12-20,Pen Set,Stationery,Coimbatore,South,5,250,0.2,1000.0,308.29,UPI
+ORD00795,2024-12-09,Notebook,Stationery,Chennai,South,3,120,0.05,342.0,65.78,Net Banking
+ORD00796,2024-05-05,Headphones,Electronics,Delhi,North,1,2500,0.15,2125.0,264.59,Debit Card
+ORD00797,2024-01-25,Smartphone,Electronics,Madurai,South,1,25000,0.05,23750.0,6689.88,Debit Card
+ORD00798,2024-12-01,Pen Set,Stationery,Madurai,South,1,250,0.05,237.5,36.32,Cash
+ORD00799,2024-05-13,Notebook,Stationery,Delhi,North,2,120,0.05,228.0,52.67,Net Banking
+ORD00800,2024-01-10,Backpack,Accessories,Mumbai,West,1,1800,0.1,1620.0,428.68,UPI
+ORD00801,2024-11-24,Keyboard,Electronics,Pune,West,2,1800,0.15,3060.0,612.19,Cash
+ORD00802,2024-07-27,Notebook,Stationery,Delhi,North,1,120,0.2,96.0,17.16,Debit Card
+ORD00803,2024-03-19,Pen Set,Stationery,Mumbai,West,4,250,0.2,800.0,202.01,Credit Card
+ORD00804,2024-11-25,Smartphone,Electronics,Trichy,South,5,25000,0.2,100000.0,31938.99,Net Banking
+ORD00805,2024-10-24,Pen Set,Stationery,Bengaluru,South,3,250,0.0,750.0,90.14,Net Banking
+ORD00806,2024-03-13,Keyboard,Electronics,Bengaluru,South,5,1800,0.15,7650.0,1283.77,Cash
+ORD00807,2024-11-15,Desk,Furniture,Mumbai,West,2,12000,0.15,20400.0,4979.11,Net Banking
+ORD00808,2024-08-10,Desk,Furniture,Madurai,South,5,12000,0.05,57000.0,16943.69,UPI
+ORD00809,2024-05-09,Smartphone,Electronics,Mumbai,West,4,25000,0.15,85000.0,12422.19,UPI
+ORD00810,2024-07-04,Backpack,Accessories,Mumbai,West,4,1800,0.05,6840.0,1510.9,Debit Card
+ORD00811,2024-11-10,Smartphone,Electronics,Bengaluru,South,3,25000,0.15,63750.0,10610.86,Cash
+ORD00812,2024-02-04,Headphones,Electronics,Delhi,North,1,2500,0.15,2125.0,392.59,UPI
+ORD00813,2024-04-20,Headphones,Electronics,Chennai,South,4,2500,0.1,9000.0,1192.38,Debit Card
+ORD00814,2024-09-29,Notebook,Stationery,Trichy,South,2,120,0.15,204.0,44.29,Net Banking
+ORD00815,2024-01-06,Desk,Furniture,Coimbatore,South,3,12000,0.05,34200.0,5976.1,Credit Card
+ORD00816,2024-05-31,Desk,Furniture,Mumbai,West,5,12000,0.0,60000.0,13206.95,Debit Card
+ORD00817,2024-07-07,Backpack,Accessories,Madurai,South,3,1800,0.05,5130.0,797.33,Debit Card
+ORD00818,2024-04-21,Backpack,Accessories,Pune,West,5,1800,0.1,8100.0,2383.43,Debit Card
+ORD00819,2024-07-18,Desk,Furniture,Chennai,South,1,12000,0.2,9600.0,2299.85,Cash
+ORD00820,2024-01-07,Headphones,Electronics,Hyderabad,South,3,2500,0.1,6750.0,1224.65,Debit Card
+ORD00821,2024-11-26,Laptop,Electronics,Mumbai,West,3,55000,0.15,140250.0,21550.21,Credit Card
+ORD00822,2024-07-05,Mouse,Electronics,Trichy,South,1,900,0.05,855.0,201.41,UPI
+ORD00823,2024-04-08,Headphones,Electronics,Trichy,South,5,2500,0.1,11250.0,3451.2,Cash
+ORD00824,2024-07-24,Laptop,Electronics,Mumbai,West,4,55000,0.15,187000.0,45329.12,Credit Card
+ORD00825,2024-03-19,Office Chair,Furniture,Trichy,South,3,7500,0.05,21375.0,3561.39,Debit Card
+ORD00826,2024-01-01,Pen Set,Stationery,Trichy,South,2,250,0.2,400.0,91.54,Credit Card
+ORD00827,2024-07-10,Pen Set,Stationery,Coimbatore,South,5,250,0.05,1187.5,247.16,Net Banking
+ORD00828,2024-03-29,Pen Set,Stationery,Chennai,South,3,250,0.05,712.5,149.81,Net Banking
+ORD00829,2024-09-28,Keyboard,Electronics,Bengaluru,South,5,1800,0.2,7200.0,2041.38,Credit Card
+ORD00830,2024-05-09,Backpack,Accessories,Chennai,South,1,1800,0.1,1620.0,284.11,Cash
+ORD00831,2024-03-09,Mouse,Electronics,Mumbai,West,2,900,0.0,1800.0,520.44,Cash
+ORD00832,2024-07-03,Headphones,Electronics,Pune,West,1,2500,0.2,2000.0,431.48,Credit Card
+ORD00833,2024-10-04,Pen Set,Stationery,Hyderabad,South,3,250,0.15,637.5,184.09,Credit Card
+ORD00834,2024-04-06,Desk,Furniture,Chennai,South,5,12000,0.1,54000.0,14299.52,UPI
+ORD00835,2024-02-28,Notebook,Stationery,Coimbatore,South,4,120,0.15,408.0,54.92,UPI
+ORD00836,2024-10-16,Backpack,Accessories,Hyderabad,South,1,1800,0.15,1530.0,216.66,Credit Card
+ORD00837,2024-04-22,Backpack,Accessories,Pune,West,1,1800,0.2,1440.0,403.89,Net Banking
+ORD00838,2024-06-30,Desk,Furniture,Chennai,South,5,12000,0.05,57000.0,16660.48,Debit Card
+ORD00839,2024-09-04,Backpack,Accessories,Trichy,South,2,1800,0.05,3420.0,1086.77,Credit Card
+ORD00840,2024-02-21,Backpack,Accessories,Trichy,South,2,1800,0.0,3600.0,1146.34,Credit Card
+ORD00841,2024-06-27,Mouse,Electronics,Kolkata,East,2,900,0.0,1800.0,300.51,Cash
+ORD00842,2024-01-24,Notebook,Stationery,Hyderabad,South,3,120,0.0,360.0,60.56,Debit Card
+ORD00843,2024-01-22,Office Chair,Furniture,Madurai,South,1,7500,0.15,6375.0,1228.17,Debit Card
+ORD00844,2024-01-31,Keyboard,Electronics,Delhi,North,5,1800,0.1,8100.0,1842.01,Credit Card
+ORD00845,2024-07-25,Desk,Furniture,Hyderabad,South,2,12000,0.0,24000.0,4417.93,Debit Card
+ORD00846,2024-11-03,Notebook,Stationery,Coimbatore,South,3,120,0.0,360.0,108.68,Net Banking
+ORD00847,2024-10-03,Office Chair,Furniture,Madurai,South,5,7500,0.0,37500.0,8073.95,Net Banking
+ORD00848,2024-07-10,Office Chair,Furniture,Chennai,South,2,7500,0.15,12750.0,3662.87,Debit Card
+ORD00849,2024-06-29,Laptop,Electronics,Mumbai,West,1,55000,0.1,49500.0,15649.86,Cash
+ORD00850,2024-01-02,Smartphone,Electronics,Mumbai,West,5,25000,0.15,106250.0,25334.7,Credit Card
+ORD00851,2024-05-29,Smartphone,Electronics,Bengaluru,South,5,25000,0.0,125000.0,35745.53,UPI
+ORD00852,2024-02-14,Keyboard,Electronics,Kolkata,East,1,1800,0.2,1440.0,197.98,UPI
+ORD00853,2024-01-27,Desk,Furniture,Mumbai,West,2,12000,0.2,19200.0,3305.93,Credit Card
+ORD00854,2024-07-03,Laptop,Electronics,Mumbai,West,4,55000,0.2,176000.0,34926.07,Net Banking
+ORD00855,2024-07-26,Smartphone,Electronics,Mumbai,West,2,25000,0.0,50000.0,12202.41,Net Banking
+ORD00856,2024-04-06,Backpack,Accessories,Mumbai,West,3,1800,0.1,4860.0,1198.73,UPI
+ORD00857,2024-04-14,Pen Set,Stationery,Coimbatore,South,3,250,0.05,712.5,217.18,UPI
+ORD00858,2024-05-05,Keyboard,Electronics,Coimbatore,South,2,1800,0.05,3420.0,881.55,Cash
+ORD00859,2024-06-18,Laptop,Electronics,Madurai,South,1,55000,0.05,52250.0,8751.7,Debit Card
+ORD00860,2024-07-05,Notebook,Stationery,Chennai,South,1,120,0.1,108.0,17.13,Credit Card
+ORD00861,2024-09-27,Backpack,Accessories,Coimbatore,South,2,1800,0.15,3060.0,908.01,UPI
+ORD00862,2024-01-25,Desk,Furniture,Chennai,South,4,12000,0.05,45600.0,13257.33,Net Banking
+ORD00863,2024-04-29,Mouse,Electronics,Pune,West,1,900,0.2,720.0,107.59,UPI
+ORD00864,2024-11-13,Laptop,Electronics,Coimbatore,South,5,55000,0.0,275000.0,54849.93,UPI
+ORD00865,2024-04-03,Keyboard,Electronics,Bengaluru,South,1,1800,0.0,1800.0,421.35,Credit Card
+ORD00866,2024-03-14,Mouse,Electronics,Mumbai,West,5,900,0.05,4275.0,754.42,Net Banking
+ORD00867,2024-03-22,Laptop,Electronics,Trichy,South,2,55000,0.05,104500.0,31694.62,UPI
+ORD00868,2024-02-16,Pen Set,Stationery,Trichy,South,1,250,0.2,200.0,62.08,Debit Card
+ORD00869,2024-12-11,Pen Set,Stationery,Bengaluru,South,5,250,0.1,1125.0,331.34,Cash
+ORD00870,2024-12-03,Backpack,Accessories,Kolkata,East,1,1800,0.05,1710.0,294.72,Net Banking
+ORD00871,2024-03-16,Headphones,Electronics,Kolkata,East,2,2500,0.0,5000.0,1153.56,UPI
+ORD00872,2024-12-20,Notebook,Stationery,Chennai,South,3,120,0.1,324.0,93.86,Cash
+ORD00873,2024-11-13,Keyboard,Electronics,Pune,West,5,1800,0.15,7650.0,2210.91,UPI
+ORD00874,2024-07-18,Laptop,Electronics,Hyderabad,South,1,55000,0.05,52250.0,13310.75,Net Banking
+ORD00875,2024-10-25,Desk,Furniture,Mumbai,West,4,12000,0.15,40800.0,11010.85,Credit Card
+ORD00876,2024-03-03,Backpack,Accessories,Delhi,North,1,1800,0.05,1710.0,370.25,Debit Card
+ORD00877,2024-04-17,Keyboard,Electronics,Kolkata,East,4,1800,0.2,5760.0,1793.82,UPI
+ORD00878,2024-08-23,Backpack,Accessories,Pune,West,4,1800,0.0,7200.0,1844.17,Credit Card
+ORD00879,2024-03-27,Mouse,Electronics,Pune,West,4,900,0.15,3060.0,391.23,Net Banking
+ORD00880,2024-07-05,Desk,Furniture,Coimbatore,South,1,12000,0.15,10200.0,1536.41,Debit Card
+ORD00881,2024-12-04,Desk,Furniture,Trichy,South,4,12000,0.05,45600.0,9286.81,Credit Card
+ORD00882,2024-06-28,Office Chair,Furniture,Hyderabad,South,5,7500,0.15,31875.0,4514.49,Debit Card
+ORD00883,2024-02-17,Office Chair,Furniture,Pune,West,5,7500,0.1,33750.0,7245.69,Debit Card
+ORD00884,2024-10-30,Office Chair,Furniture,Bengaluru,South,4,7500,0.1,27000.0,3715.93,Debit Card
+ORD00885,2024-06-29,Mouse,Electronics,Kolkata,East,3,900,0.1,2430.0,651.18,Net Banking
+ORD00886,2024-11-23,Pen Set,Stationery,Hyderabad,South,3,250,0.2,600.0,97.41,Net Banking
+ORD00887,2024-04-28,Pen Set,Stationery,Pune,West,3,250,0.05,712.5,190.77,Credit Card
+ORD00888,2024-05-24,Office Chair,Furniture,Delhi,North,4,7500,0.05,28500.0,8103.36,Debit Card
+ORD00889,2024-12-19,Headphones,Electronics,Mumbai,West,1,2500,0.15,2125.0,510.25,Credit Card
+ORD00890,2024-05-09,Mouse,Electronics,Coimbatore,South,1,900,0.15,765.0,203.13,Cash
+ORD00891,2024-11-02,Laptop,Electronics,Hyderabad,South,2,55000,0.05,104500.0,16553.29,Debit Card
+ORD00892,2024-05-18,Pen Set,Stationery,Coimbatore,South,4,250,0.0,1000.0,225.73,Cash
+ORD00893,2024-01-08,Mouse,Electronics,Bengaluru,South,4,900,0.05,3420.0,961.14,Cash
+ORD00894,2024-12-07,Backpack,Accessories,Hyderabad,South,4,1800,0.2,5760.0,1555.15,Net Banking
+ORD00895,2024-10-20,Smartphone,Electronics,Chennai,South,4,25000,0.0,100000.0,26493.93,Net Banking
+ORD00896,2024-05-24,Office Chair,Furniture,Mumbai,West,4,7500,0.05,28500.0,3653.32,Debit Card
+ORD00897,2024-09-04,Smartphone,Electronics,Pune,West,3,25000,0.05,71250.0,22407.57,Net Banking
+ORD00898,2024-11-08,Pen Set,Stationery,Coimbatore,South,1,250,0.1,225.0,30.37,Cash
+ORD00899,2024-02-01,Backpack,Accessories,Delhi,North,3,1800,0.05,5130.0,1404.33,Credit Card
+ORD00900,2024-06-28,Backpack,Accessories,Mumbai,West,1,1800,0.1,1620.0,206.21,Net Banking
+ORD00901,2024-08-16,Desk,Furniture,Coimbatore,South,1,12000,0.2,9600.0,1655.82,Credit Card
+ORD00902,2024-04-19,Keyboard,Electronics,Coimbatore,South,3,1800,0.1,4860.0,919.7,Net Banking
+ORD00903,2024-07-04,Mouse,Electronics,Chennai,South,2,900,0.15,1530.0,479.28,Credit Card
+ORD00904,2024-02-11,Keyboard,Electronics,Pune,West,1,1800,0.2,1440.0,321.76,Debit Card
+ORD00905,2024-11-05,Smartphone,Electronics,Kolkata,East,5,25000,0.1,112500.0,30549.97,UPI
+ORD00906,2024-02-26,Notebook,Stationery,Delhi,North,2,120,0.2,192.0,41.69,Net Banking
+ORD00907,2024-07-04,Backpack,Accessories,Madurai,South,5,1800,0.1,8100.0,2352.32,Credit Card
+ORD00908,2024-09-14,Smartphone,Electronics,Coimbatore,South,3,25000,0.15,63750.0,12456.57,Net Banking
+ORD00909,2024-05-30,Desk,Furniture,Pune,West,2,12000,0.05,22800.0,4313.12,Cash
+ORD00910,2024-11-03,Pen Set,Stationery,Bengaluru,South,5,250,0.2,1000.0,158.39,Net Banking
+ORD00911,2024-09-19,Pen Set,Stationery,Kolkata,East,5,250,0.05,1187.5,255.63,Cash
+ORD00912,2024-01-11,Headphones,Electronics,Hyderabad,South,4,2500,0.2,8000.0,1718.65,Cash
+ORD00913,2024-08-24,Backpack,Accessories,Mumbai,West,5,1800,0.2,7200.0,1333.69,Net Banking
+ORD00914,2024-07-07,Laptop,Electronics,Mumbai,West,3,55000,0.2,132000.0,40975.33,Cash
+ORD00915,2024-03-30,Notebook,Stationery,Delhi,North,5,120,0.05,570.0,69.4,Net Banking
+ORD00916,2024-06-30,Laptop,Electronics,Bengaluru,South,4,55000,0.0,220000.0,66582.11,Cash
+ORD00917,2024-11-28,Notebook,Stationery,Coimbatore,South,3,120,0.2,288.0,88.44,Credit Card
+ORD00918,2024-02-02,Backpack,Accessories,Hyderabad,South,3,1800,0.05,5130.0,898.33,UPI
+ORD00919,2024-05-22,Notebook,Stationery,Kolkata,East,5,120,0.1,540.0,68.3,Net Banking
+ORD00920,2024-12-01,Headphones,Electronics,Hyderabad,South,3,2500,0.05,7125.0,2255.7,Cash
+ORD00921,2024-01-09,Pen Set,Stationery,Trichy,South,4,250,0.05,950.0,233.49,Net Banking
+ORD00922,2024-04-30,Mouse,Electronics,Madurai,South,2,900,0.1,1620.0,370.19,Credit Card
+ORD00923,2024-07-25,Pen Set,Stationery,Delhi,North,4,250,0.2,800.0,117.34,Cash
+ORD00924,2024-01-01,Backpack,Accessories,Bengaluru,South,4,1800,0.15,6120.0,1088.43,Credit Card
+ORD00925,2024-06-18,Laptop,Electronics,Pune,West,3,55000,0.1,148500.0,35144.23,Credit Card
+ORD00926,2024-08-02,Laptop,Electronics,Delhi,North,4,55000,0.0,220000.0,52153.06,Credit Card
+ORD00927,2024-06-25,Laptop,Electronics,Coimbatore,South,3,55000,0.1,148500.0,43268.01,Cash
+ORD00928,2024-07-13,Backpack,Accessories,Trichy,South,1,1800,0.2,1440.0,443.2,UPI
+ORD00929,2024-10-31,Office Chair,Furniture,Coimbatore,South,2,7500,0.0,15000.0,3241.68,Cash
+ORD00930,2024-03-24,Desk,Furniture,Kolkata,East,5,12000,0.15,51000.0,14549.94,Cash
+ORD00931,2024-02-14,Mouse,Electronics,Coimbatore,South,5,900,0.0,4500.0,1295.51,Credit Card
+ORD00932,2024-10-26,Keyboard,Electronics,Trichy,South,4,1800,0.15,6120.0,1925.67,UPI
+ORD00933,2024-02-24,Mouse,Electronics,Coimbatore,South,4,900,0.1,3240.0,920.51,Credit Card
+ORD00934,2024-01-10,Backpack,Accessories,Mumbai,West,1,1800,0.2,1440.0,429.45,Debit Card
+ORD00935,2024-03-25,Headphones,Electronics,Chennai,South,5,2500,0.0,12500.0,2204.56,Net Banking
+ORD00936,2024-03-02,Laptop,Electronics,Bengaluru,South,1,55000,0.0,55000.0,6813.93,Cash
+ORD00937,2024-05-20,Notebook,Stationery,Trichy,South,3,120,0.1,324.0,75.29,UPI
+ORD00938,2024-11-08,Laptop,Electronics,Kolkata,East,4,55000,0.05,209000.0,46383.64,UPI
+ORD00939,2024-03-20,Desk,Furniture,Bengaluru,South,2,12000,0.1,21600.0,6676.01,Cash
+ORD00940,2024-01-18,Keyboard,Electronics,Bengaluru,South,1,1800,0.15,1530.0,227.3,UPI
+ORD00941,2024-08-14,Headphones,Electronics,Madurai,South,1,2500,0.0,2500.0,710.3,UPI
+ORD00942,2024-06-20,Notebook,Stationery,Hyderabad,South,3,120,0.0,360.0,47.8,Net Banking
+ORD00943,2024-03-27,Smartphone,Electronics,Bengaluru,South,5,25000,0.1,112500.0,26344.21,UPI
+ORD00944,2024-04-27,Laptop,Electronics,Madurai,South,5,55000,0.05,261250.0,80902.31,Credit Card
+ORD00945,2024-09-14,Backpack,Accessories,Delhi,North,3,1800,0.15,4590.0,563.83,Cash
+ORD00946,2024-09-02,Headphones,Electronics,Mumbai,West,1,2500,0.2,2000.0,586.87,Debit Card
+ORD00947,2024-07-15,Desk,Furniture,Pune,West,1,12000,0.15,10200.0,1569.09,Cash
+ORD00948,2024-01-14,Keyboard,Electronics,Trichy,South,5,1800,0.0,9000.0,2058.82,Net Banking
+ORD00949,2024-01-17,Smartphone,Electronics,Madurai,South,2,25000,0.0,50000.0,12113.42,Debit Card
+ORD00950,2024-07-06,Headphones,Electronics,Delhi,North,1,2500,0.0,2500.0,690.89,Net Banking
+ORD00951,2024-04-18,Headphones,Electronics,Trichy,South,3,2500,0.1,6750.0,1131.69,UPI
+ORD00952,2024-05-25,Backpack,Accessories,Mumbai,West,3,1800,0.1,4860.0,1079.98,Debit Card
+ORD00953,2024-11-05,Smartphone,Electronics,Coimbatore,South,3,25000,0.0,75000.0,22019.69,Credit Card
+ORD00954,2024-07-19,Desk,Furniture,Hyderabad,South,4,12000,0.05,45600.0,7865.86,Debit Card
+ORD00955,2024-07-22,Headphones,Electronics,Trichy,South,2,2500,0.2,4000.0,1149.96,Credit Card
+ORD00956,2024-03-28,Office Chair,Furniture,Hyderabad,South,4,7500,0.2,24000.0,3390.78,UPI
+ORD00957,2024-06-26,Laptop,Electronics,Kolkata,East,1,55000,0.15,46750.0,8608.86,Credit Card
+ORD00958,2024-03-14,Office Chair,Furniture,Mumbai,West,4,7500,0.15,25500.0,5156.68,Cash
+ORD00959,2024-09-08,Backpack,Accessories,Mumbai,West,1,1800,0.15,1530.0,392.07,Debit Card
+ORD00960,2024-06-27,Desk,Furniture,Hyderabad,South,2,12000,0.05,22800.0,7234.38,Credit Card
+ORD00961,2024-01-03,Office Chair,Furniture,Coimbatore,South,2,7500,0.2,12000.0,2183.21,Credit Card
+ORD00962,2024-11-17,Headphones,Electronics,Chennai,South,3,2500,0.2,6000.0,1464.28,Cash
+ORD00963,2024-08-06,Backpack,Accessories,Hyderabad,South,1,1800,0.15,1530.0,416.26,Net Banking
+ORD00964,2024-09-15,Headphones,Electronics,Pune,West,5,2500,0.15,10625.0,3303.67,Cash
+ORD00965,2024-10-22,Pen Set,Stationery,Pune,West,5,250,0.1,1125.0,248.83,Net Banking
+ORD00966,2024-08-19,Keyboard,Electronics,Hyderabad,South,5,1800,0.1,8100.0,2085.32,UPI
+ORD00967,2024-06-28,Headphones,Electronics,Coimbatore,South,1,2500,0.0,2500.0,304.91,Credit Card
+ORD00968,2024-04-16,Keyboard,Electronics,Kolkata,East,4,1800,0.1,6480.0,1353.26,Debit Card
+ORD00969,2024-04-12,Headphones,Electronics,Pune,West,4,2500,0.05,9500.0,2868.51,Net Banking
+ORD00970,2024-02-26,Pen Set,Stationery,Pune,West,1,250,0.2,200.0,42.32,Net Banking
+ORD00971,2024-11-22,Headphones,Electronics,Kolkata,East,3,2500,0.2,6000.0,1415.18,Net Banking
+ORD00972,2024-07-18,Notebook,Stationery,Trichy,South,2,120,0.05,228.0,51.01,Debit Card
+ORD00973,2024-01-20,Desk,Furniture,Hyderabad,South,5,12000,0.05,57000.0,8912.11,UPI
+ORD00974,2024-02-14,Smartphone,Electronics,Mumbai,West,2,25000,0.0,50000.0,8979.55,Debit Card
+ORD00975,2024-08-01,Office Chair,Furniture,Hyderabad,South,5,7500,0.1,33750.0,6087.15,Cash
+ORD00976,2024-02-21,Pen Set,Stationery,Pune,West,4,250,0.0,1000.0,235.47,UPI
+ORD00977,2024-10-19,Office Chair,Furniture,Mumbai,West,2,7500,0.2,12000.0,3416.99,Debit Card
+ORD00978,2024-01-16,Backpack,Accessories,Coimbatore,South,2,1800,0.1,3240.0,531.57,Debit Card
+ORD00979,2024-11-20,Smartphone,Electronics,Delhi,North,4,25000,0.05,95000.0,16475.74,Cash
+ORD00980,2024-12-15,Mouse,Electronics,Pune,West,5,900,0.15,3825.0,950.97,Credit Card
+ORD00981,2024-08-13,Backpack,Accessories,Hyderabad,South,2,1800,0.2,2880.0,568.34,Net Banking
+ORD00982,2024-06-27,Backpack,Accessories,Hyderabad,South,3,1800,0.0,5400.0,1338.24,Cash
+ORD00983,2024-07-21,Headphones,Electronics,Chennai,South,5,2500,0.15,10625.0,3396.17,Debit Card
+ORD00984,2024-12-03,Laptop,Electronics,Trichy,South,5,55000,0.05,261250.0,74291.1,Debit Card
+ORD00985,2024-02-12,Laptop,Electronics,Mumbai,West,3,55000,0.1,148500.0,40625.93,Cash
+ORD00986,2024-03-09,Headphones,Electronics,Coimbatore,South,3,2500,0.05,7125.0,946.54,UPI
+ORD00987,2024-01-10,Smartphone,Electronics,Hyderabad,South,2,25000,0.15,42500.0,12992.72,Credit Card
+ORD00988,2024-08-05,Keyboard,Electronics,Hyderabad,South,5,1800,0.0,9000.0,2724.98,Net Banking
+ORD00989,2024-01-26,Mouse,Electronics,Hyderabad,South,5,900,0.05,4275.0,775.43,Net Banking
+ORD00990,2024-01-13,Laptop,Electronics,Trichy,South,5,55000,0.1,247500.0,65128.93,Debit Card
+ORD00991,2024-11-13,Mouse,Electronics,Hyderabad,South,2,900,0.1,1620.0,356.74,Debit Card
+ORD00992,2024-04-26,Office Chair,Furniture,Pune,West,1,7500,0.1,6750.0,1138.29,Net Banking
+ORD00993,2024-02-27,Notebook,Stationery,Pune,West,3,120,0.2,288.0,37.37,Credit Card
+ORD00994,2024-03-20,Pen Set,Stationery,Kolkata,East,5,250,0.0,1250.0,338.28,Cash
+ORD00995,2024-08-19,Keyboard,Electronics,Hyderabad,South,5,1800,0.2,7200.0,2228.83,Net Banking
+ORD00996,2024-09-05,Office Chair,Furniture,Chennai,South,4,7500,0.2,24000.0,5478.54,Debit Card
+ORD00997,2024-08-07,Notebook,Stationery,Madurai,South,5,120,0.05,570.0,98.09,Net Banking
+ORD00998,2024-02-27,Mouse,Electronics,Trichy,South,2,900,0.05,1710.0,302.26,Credit Card
+ORD00999,2024-06-01,Pen Set,Stationery,Chennai,South,1,250,0.2,200.0,27.1,Net Banking
+ORD01000,2024-11-09,Headphones,Electronics,Hyderabad,South,5,2500,0.05,11875.0,3270.12,Credit Card
