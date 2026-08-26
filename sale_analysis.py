@@ -739,3 +739,252 @@ plt.xlabel("City")
 plt.ylabel("Sales")
 
 plt.show()
+# Discount-wise Average Profit
+
+discount_profit = df.groupby("Discount")["Profit"].mean()
+
+print("DISCOUNT-WISE AVERAGE PROFIT:")
+print(discount_profit)
+product_discount = df.groupby("Product")["Discount"].mean()
+
+print("PRODUCT-WISE AVERAGE DISCOUNT:")
+print(product_discount)
+# Product-wise Average Profit
+
+product_avg_profit = df.groupby("Product")["Profit"].mean()
+
+print("PRODUCT-WISE AVERAGE PROFIT:")
+print(product_avg_profit)
+plt.figure(figsize=(10,5))
+
+plt.bar(product_sales.index, product_sales.values)
+
+plt.title("Product-wise Sales")
+plt.xlabel("Product")
+plt.ylabel("Sales")
+
+plt.xticks(rotation=45)
+
+plt.show()
+plt.figure(figsize=(10,5))
+
+plt.bar(product_profit.index, product_profit.values)
+
+plt.title("Product-wise Profit")
+plt.xlabel("Product")
+plt.ylabel("Profit")
+
+plt.xticks(rotation=45)
+
+plt.show()
+plt.figure(figsize=(8,5))
+
+plt.bar(category_sales.index, category_sales.values)
+
+plt.title("Category-wise Sales")
+plt.xlabel("Category")
+plt.ylabel("Sales")
+
+plt.show()
+plt.figure(figsize=(8,5))
+
+plt.bar(region_sales.index, region_sales.values)
+
+plt.title("Region-wise Sales")
+plt.xlabel("Region")
+plt.ylabel("Sales")
+
+plt.show()
+plt.figure(figsize=(10,5))
+
+plt.bar(city_sales.index, city_sales.values)
+
+plt.title("City-wise Sales")
+plt.xlabel("City")
+plt.ylabel("Sales")
+
+plt.xticks(rotation=45)
+
+plt.show()
+plt.figure(figsize=(8,5))
+
+plt.bar(payment_sales.index, payment_sales.values)
+
+plt.title("Payment Method-wise Sales")
+plt.xlabel("Payment Method")
+plt.ylabel("Sales")
+
+plt.show()
+# Monthly Profit Graph
+
+plt.figure(figsize=(8,5))
+
+plt.bar(monthly_profit.index, monthly_profit.values)
+
+plt.title("Monthly Profit")
+plt.xlabel("Month")
+plt.ylabel("Profit")
+
+plt.show()
+# Product-wise Quantity Graph
+
+plt.figure(figsize=(10,5))
+
+plt.bar(product_quantity.index, product_quantity.values)
+
+plt.title("Product-wise Quantity Sold")
+plt.xlabel("Product")
+plt.ylabel("Quantity Sold")
+
+plt.xticks(rotation=45)
+
+plt.show()
+# Region-wise Sales vs Profit
+
+plt.figure(figsize=(8,5))
+
+plt.bar(region_sales.index, region_sales.values, label="Sales")
+plt.bar(region_profit.index, region_profit.values, label="Profit")
+
+plt.title("Region-wise Sales vs Profit")
+plt.xlabel("Region")
+plt.ylabel("Amount")
+
+plt.legend()
+plt.show()
+# Monthly Sales Graph
+
+plt.figure(figsize=(8,5))
+
+plt.bar(monthly_sales.index, monthly_sales.values)
+
+plt.title("Monthly Sales")
+plt.xlabel("Month")
+plt.ylabel("Sales")
+
+plt.show()
+# Category-wise Profit Graph
+
+plt.figure(figsize=(8,5))
+
+plt.bar(category_profit.index, category_profit.values)
+
+plt.title("Category-wise Profit")
+plt.xlabel("Category")
+plt.ylabel("Profit")
+
+plt.show()
+# City-wise Profit Graph
+
+plt.figure(figsize=(10,5))
+
+plt.bar(city_profit.index, city_profit.values)
+
+plt.title("City-wise Profit")
+plt.xlabel("City")
+plt.ylabel("Profit")
+
+plt.xticks(rotation=45)
+
+plt.show()
+# Discount-wise Average Profit
+
+discount_profit = df.groupby("Discount")["Profit"].mean()
+
+print("DISCOUNT-WISE AVERAGE PROFIT:")
+print(discount_profit)
+# Top 5 Products by Sales
+
+top_products = product_sales.sort_values(ascending=False).head(5)
+
+print("TOP 5 PRODUCTS BY SALES:")
+print(top_products)
+# Top 5 Products by Profit
+
+top_profit_products = product_profit.sort_values(ascending=False).head(5)
+
+print("TOP 5 PRODUCTS BY PROFIT:")
+print(top_profit_products)
+# Top 5 Cities by Sales
+
+top_cities = city_sales.sort_values(ascending=False).head(5)
+
+print("TOP 5 CITIES BY SALES:")
+print(top_cities)
+# Top 5 Cities by Profit
+
+top_profit_cities = city_profit.sort_values(ascending=False).head(5)
+
+print("TOP 5 CITIES BY PROFIT:")
+print(top_profit_cities)
+# Top 5 Products by Quantity Sold
+
+top_quantity_products = product_quantity.sort_values(ascending=False).head(5)
+
+print("TOP 5 PRODUCTS BY QUANTITY SOLD:")
+print(top_quantity_products)
+# Highest Profit Month
+
+highest_profit_month = monthly_profit.idxmax()
+highest_profit_value = monthly_profit.max()
+
+print("HIGHEST PROFIT MONTH:", highest_profit_month)
+print("HIGHEST PROFIT:", highest_profit_value)
+# Highest Sales Month
+
+highest_sales_month = monthly_sales.idxmax()
+highest_sales_value = monthly_sales.max()
+
+print("HIGHEST SALES MONTH:", highest_sales_month)
+print("HIGHEST SALES:", highest_sales_value)
+# Highest Sales Region
+
+highest_sales_region = region_sales.idxmax()
+highest_sales_region_value = region_sales.max()
+
+print("HIGHEST SALES REGION:", highest_sales_region)
+print("HIGHEST SALES:", highest_sales_region_value)
+# Highest Profit Region
+
+highest_profit_region = region_profit.idxmax()
+highest_profit_region_value = region_profit.max()
+
+print("HIGHEST PROFIT REGION:", highest_profit_region)
+print("HIGHEST PROFIT:", highest_profit_region_value)
+# Best Payment Method
+
+best_payment_method = payment_sales.idxmax()
+best_payment_sales = payment_sales.max()
+
+print("BEST PAYMENT METHOD:", best_payment_method)
+print("HIGHEST SALES:", best_payment_sales)
+# Overall Business Summary
+
+total_sales = df["Sales"].sum()
+total_profit = df["Profit"].sum()
+total_quantity = df["Quantity"].sum()
+
+print("===== OVERALL BUSINESS SUMMARY =====")
+print("Total Sales:", total_sales)
+print("Total Profit:", total_profit)
+print("Total Quantity Sold:", total_quantity)
+# Overall Profit Margin
+
+profit_margin = (df["Profit"].sum() / df["Sales"].sum()) * 100
+
+print("OVERALL PROFIT MARGIN:", profit_margin, "%")
+# Missing Values Check
+
+missing_values = df.isnull().sum()
+
+print("MISSING VALUES:")
+print(missing_values)
+# Duplicate Rows Check
+
+duplicate_rows = df.duplicated().sum()
+
+print("DUPLICATE ROWS:", duplicate_rows)
+# Final Data Summary
+
+print("FINAL DATA SUMMARY:")
+print(df.describe())
