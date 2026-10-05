@@ -1,34 +1,59 @@
-# Python Data Analysis Project
+# Sales Data Analysis & Executive Dashboard
 
-## Project Description
+## 📌 Project Overview
+This project performs an end-to-end analysis of sales data using Python, Pandas, Matplotlib, Streamlit, and Chart.js. The codebase is organized into a clean, modular architecture with dedicated modules for data loading, sales performance, profit margins, quantity breakdowns, top performer tracking, and visual dashboards.
 
-This project analyzes sales data using Python and Pandas.
+---
 
-## Technologies Used
+## 📊 Dashboard Features & Key Metrics
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+### Mandatory KPIs:
+1. **Total Sales**: `₹28,827,073.00`
+2. **Total Profit**: `₹6,461,656.66` (**22.4% Profit Margin**)
+3. **Total Quantity**: `2,998 Units`
+4. **Number of Products**: `10 Products`
+5. **Number of Orders**: `1,000 Orders`
 
-## Analysis Performed
+### 📈 Included Charts (7 Required Visualizations):
+1. **Sales by Category** (Bar chart)
+2. **Profit by Category** (Bar chart)
+3. **Sales by Region** (Bar chart across West, East, South, North)
+4. **Sales by Product** (Horizontal Bar chart sorted descending)
+5. **Monthly Sales Trend** (Line trend for Jan – Dec)
+6. **Monthly Profit Trend** (Line trend for Jan – Dec)
+7. **Payment Method-wise Sales** (Donut chart for payment channels)
 
-- Product-wise sales analysis
-- Category-wise sales analysis
-- Profit analysis
-- Quantity sold analysis
-- Payment-wise sales analysis
-- City-wise sales analysis
+### 🎛️ Interactive Filters & Slicers:
+- **Category**
+- **Region**
+- **Product**
+- **Payment Method**
+- **Date / Month**
 
-## Project Files
+---
 
-- `sale_analysis.py` – Python analysis program
-- `Sales_Data_Analysis_Full(1).csv` – Sales dataset
+## 🚀 How to Run
 
-## Objective
+### 1. Launch Interactive Streamlit Dashboard
+```bash
+python main.py --dashboard
+```
+*or*
+```bash
+streamlit run app.py
+```
 
-The main objective of this project is to analyze sales data and identify useful business insights such as highest sales, highest profit, product performance, and quantity sold.
+### 2. Launch Standalone Web Dashboard in Browser
+```bash
+python main.py --html-dashboard
+```
 
-## Author
+### 3. Run Standard Modular CLI Analysis
+```bash
+python main.py
+```
 
-Mohamed Amsathkhan
+---
+
+## 👨‍💻 Author
+**Mohamed Amsathkhan**
